@@ -39,6 +39,7 @@ public class MMOCharController : MonoBehaviour
 		zoom = -3;
 	}
 
+
 	// Update is called once per frame
 	void Update () 
 	{
@@ -77,15 +78,23 @@ public class MMOCharController : MonoBehaviour
 			character.rotation = Quaternion.Slerp (character.rotation, turnAngle, Time.deltaTime * rotationSpeed);
 
 		}
-
-		if (canJump == true) 
+			
+		if (Input.GetButtonDown ("Jump")) 
 		{
-			if (Input.GetButtonDown ("Jump")) 
+			Debug.Log ("Jumped");
+			verticalVelocity += jumpDist;
+			canJump = false;
+		}
+
+		/*if (player.isGrounded == true) 
+		{
+			if (Input.GetKeyDown (KeyCode.Space)) 
 			{
 				verticalVelocity += jumpDist;
 				canJump = false;
+				Debug.Log ("Jumped");
 			}
-		}
+		}*/
 
 	}
 
@@ -101,8 +110,7 @@ public class MMOCharController : MonoBehaviour
 
 		if (player.isGrounded == false) {
 			verticalVelocity += Physics.gravity.y * Time.deltaTime;
-		} else 
-		{
+		} else {
 			verticalVelocity = 0f;
 		}
 	}
