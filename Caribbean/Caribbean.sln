@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caribbean", "Assembly-CShar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caribbean", "Assembly-UnityScript.unityproj", "{B64AFEE6-F718-9D6B-9B49-BA79FF30DAC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caribbean", "Assembly-UnityScript-Editor.unityproj", "{2F176DFB-BB93-9B43-C672-D1A710AF7056}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{B64AFEE6-F718-9D6B-9B49-BA79FF30DAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B64AFEE6-F718-9D6B-9B49-BA79FF30DAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B64AFEE6-F718-9D6B-9B49-BA79FF30DAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F176DFB-BB93-9B43-C672-D1A710AF7056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F176DFB-BB93-9B43-C672-D1A710AF7056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F176DFB-BB93-9B43-C672-D1A710AF7056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F176DFB-BB93-9B43-C672-D1A710AF7056}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
