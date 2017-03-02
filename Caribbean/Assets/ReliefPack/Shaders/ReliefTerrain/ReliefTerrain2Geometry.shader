@@ -439,7 +439,7 @@ SubShader {
 	Fog { Mode Off }
 	//Offset -1,-1
 	CGPROGRAM
-	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass
+	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass tessellate:tessEdge tessphong:_Phong noforwardadd
 	// U5 fog handling
 	#pragma multi_compile_fog	
 	#include "UnityCG.cginc"
@@ -459,12 +459,12 @@ SubShader {
 
 	ENDCG
 	
-///* AddBlend
+/* AddBlend
 Fog { Mode Off }
 ZWrite Off
 ZTest LEqual	
 CGPROGRAM
-	#pragma surface surf Standard vertex:vert finalcolor:customFog decal:blend exclude_path:prepass
+	#pragma surface surf Standard vertex:vert finalcolor:customFog decal:blend exclude_path:prepass tessellate:tessEdge tessphong:_Phong noforwardadd
 	// U5 fog handling
 	#pragma multi_compile_fog	
 	#include "UnityCG.cginc"
@@ -482,10 +482,10 @@ CGPROGRAM
 	#include "RTP_AddBase.cginc"
 	
 ENDCG  				
-//*/ // AddBlend
+*/ // AddBlend
 
 // (used with tessellation)		
-/* TESS SHADOW PASS
+///* TESS SHADOW PASS
 	Pass {
 		Name "ShadowCaster"
 		Tags { "LightMode" = "ShadowCaster" }
@@ -523,7 +523,7 @@ ENDCG
 		ENDCG
 
 	}
-*/ // TESS SHADOW PASS
+//*/ // TESS SHADOW PASS
 
 }
 // EOF POM / PM / SIMPLE shading

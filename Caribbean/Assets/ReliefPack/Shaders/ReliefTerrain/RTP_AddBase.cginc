@@ -14,7 +14,7 @@
 // (we don't tessellate terrain in geom blend base)
 #if !defined(COLOR_EARLY_EXIT) && defined(UNITY_CAN_COMPILE_TESSELLATION)
 	// optional tessellation switch
-	//#define TESSELLATION
+	#define TESSELLATION
 	// do we sample height&normal texture ? (if undefined tessellation benefits come only from phong smoothing)
 	#define SAMPLE_TEXTURE_TESSELLATION
 	// when we're in tessellation we can additionally sample heightmap with bicubic (instead of hardware bilinear) filtering
@@ -28,7 +28,7 @@
 #define _4LAYERS
 
 // turn on when you need to skip all specularity PBL lighting
-//#define NO_SPECULARITY
+#define NO_SPECULARITY
 
 // U5 8layers mode workaround
 //#if defined(UNITY_PI) && !defined(_4LAYERS) && defined(FAR_ONLY)

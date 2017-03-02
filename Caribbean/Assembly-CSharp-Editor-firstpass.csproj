@@ -83,7 +83,6 @@
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\SHADERS\Suimono2_FX_NormalBlend.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\_DEMO\OBJECTS\Shaders\Reflect-BumpSpec.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\RESOURCES\SUIMONO_PRESETS_Built-In Presets\SUIMONO_PRESET_Deep Dark Ocean.txt" />
-     <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\UnityStandardBRDF.cginc" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\ReliefPack\Shaders\ConfigurableCore.cginc" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Customizable&amp;Standalone\ReliefTerrainPMTriplanarStandalone_geomblend.shader" />

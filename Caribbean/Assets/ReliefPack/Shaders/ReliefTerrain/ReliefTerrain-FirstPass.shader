@@ -450,7 +450,7 @@ SubShader {
 	LOD 700
 	Fog { Mode Off }
 	CGPROGRAM
-	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass
+	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass tessellate:tessEdge tessphong:_Phong noforwardadd
 	// U5 fog handling
 	#pragma multi_compile_fog	
 	#include "UnityCG.cginc"
@@ -471,7 +471,7 @@ SubShader {
 	ENDCG
 
 // (used with tessellation)		
-/* TESS SHADOW PASS
+///* TESS SHADOW PASS
 	Pass {
 		Name "ShadowCaster"
 		Tags { "LightMode" = "ShadowCaster" }
@@ -509,10 +509,10 @@ SubShader {
 		ENDCG
 
 	}
-*/ // TESS SHADOW PASS
+//*/ // TESS SHADOW PASS
 
 // (used w/o tessellation)		
-///* SHADOW PASSES
+/* SHADOW PASSES
 	// Pass to render object as a shadow caster
 	Pass {
 		Name "Caster"
@@ -566,7 +566,7 @@ ENDCG
 
 }
 
-//*/ // SHADOW PASSES
+*/ // SHADOW PASSES
 
 		
 }

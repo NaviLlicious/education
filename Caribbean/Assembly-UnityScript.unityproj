@@ -47,10 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\ReliefPack\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor2.js" />
-     <Compile Include="Assets\ReliefPack\Standard Assets\Character Controllers\Sources\Scripts\FPSInputController.js" />
-     <Compile Include="Assets\ReliefPack\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
-     <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Character\CharacterMotor.js" />
-     <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Character\FPSInputController.js" />
      <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\UniStorm Examples\Dynamic Snow\DynamicSnow_JS.js" />
      <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\UniStorm Examples\Player Vitals\PlayerVitalsExample_JS.js" />
      <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\UniStorm Examples\Save and Load UniStorm Data\SavePlayerData_JS.js" />
@@ -96,7 +92,6 @@
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\SHADERS\Suimono2_FX_NormalBlend.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\_DEMO\OBJECTS\Shaders\Reflect-BumpSpec.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\RESOURCES\SUIMONO_PRESETS_Built-In Presets\SUIMONO_PRESET_Deep Dark Ocean.txt" />
-     <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\UnityStandardBRDF.cginc" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\ReliefPack\Shaders\ConfigurableCore.cginc" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Customizable&amp;Standalone\ReliefTerrainPMTriplanarStandalone_geomblend.shader" />

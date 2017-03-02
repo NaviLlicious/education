@@ -450,7 +450,7 @@ SubShader {
 	Fog { Mode Off }
 	CGPROGRAM
 	
-	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass exclude_path:deferred
+	#pragma surface surf Standard vertex:vert finalcolor:customFog exclude_path:prepass tessellate:tessEdge tessphong:_Phong noforwardadd
 	// U5 fog handling
 	#pragma multi_compile_fog	
 
@@ -473,11 +473,11 @@ SubShader {
 
 	ENDCG
 
-///* AddFar
+/* AddFar
 Fog { Mode Off }
 ZWrite Off
 CGPROGRAM
-	#pragma surface surf Standard vertex:vert finalcolor:customFog decal:blend exclude_path:prepass exclude_path:deferred
+	#pragma surface surf Standard vertex:vert finalcolor:customFog decal:blend exclude_path:prepass tessellate:tessEdge tessphong:_Phong noforwardadd
 	// U5 fog handling
 	#pragma multi_compile_fog	
 
@@ -498,11 +498,11 @@ CGPROGRAM
 	#include "RTP_AddBase.cginc"
 
 ENDCG  	
-//*/ // AddFar
+*/ // AddFar
 
 
 // (used with tessellation)		
-/* TESS SHADOW PASS
+///* TESS SHADOW PASS
 	Pass {
 		Name "ShadowCaster"
 		Tags { "LightMode" = "ShadowCaster" }
@@ -542,10 +542,10 @@ ENDCG
 		ENDCG
 
 	}
-*/ // TESS SHADOW PASS
+//*/ // TESS SHADOW PASS
 
 // (used w/o tessellation)	
-///* SHADOW PASSES
+/* SHADOW PASSES
 	// Pass to render object as a shadow caster
 	Pass {
 		Name "Caster"
@@ -600,7 +600,7 @@ ENDCG
 
 }
 
-//*/ // SHADOW PASSES
+*/ // SHADOW PASSES
 
 	
 }

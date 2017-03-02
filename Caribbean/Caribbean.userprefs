@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Main Game\Scripts\MMOCharController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\..\..\Program Files\Unity\Editor\Data\CGIncludes\UnityImageBasedLighting.cginc">
     <Files>
-      <File FileName="Assets\Main Game\Scripts\MMOCharController.cs" Line="39" Column="15" />
+      <File FileName="Assets\Main Game\Scripts\MMOCharController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\..\Program Files\Unity\Editor\Data\CGIncludes\UnityImageBasedLighting.cginc" Line="520" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
