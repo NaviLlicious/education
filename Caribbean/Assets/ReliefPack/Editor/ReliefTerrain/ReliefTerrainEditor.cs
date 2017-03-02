@@ -911,7 +911,7 @@ public class ReliefTerrainEditor : Editor
                                             Debug.LogWarning("Normal texture " + n + " (" + _target.splats[n].name + ") has been imported with " + tex_importer.maxTextureSize + " size.");
                                         }
                                     }
-                                    tex_importer.textureType = TextureImporterType.NormalMap;
+                                    tex_importer.textureType = TextureImporterType.Bump;
                                     AssetDatabase.ImportAsset(path, ImportAssetOptions.ForceUpdate);
                                     ntex = (Texture2D)AssetDatabase.LoadAssetAtPath(path, typeof(Texture2D));
                                     _target.Bumps[n] = ntex;
@@ -3697,7 +3697,7 @@ public class ReliefTerrainEditor : Editor
                                     if (tex_importer)
                                     {
                                         tex_importer.wrapMode = TextureWrapMode.Clamp;
-                                        tex_importer.textureType = TextureImporterType.NormalMap;
+                                        tex_importer.textureType = TextureImporterType.Bump;
                                         Debug.LogWarning("Global normal texture (" + _targetRT.NormalGlobal.name + ") has been imported as normalmap type.");
                                         AssetDatabase.ImportAsset(AssetDatabase.GetAssetPath(_targetRT.NormalGlobal), ImportAssetOptions.ForceUpdate);
                                     }

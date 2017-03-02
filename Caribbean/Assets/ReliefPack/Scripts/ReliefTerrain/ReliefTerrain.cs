@@ -122,20 +122,12 @@ public class ReliefTerrain : MonoBehaviour {
 				
 				if (IamTerrain) {
 					globalSettingsHolder.numTiles=0; // will be set to 1 with incrementation below
-                    Terrain terrainComp = (Terrain)GetComponent(typeof(Terrain));
-                    globalSettingsHolder.splats = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-                    globalSettingsHolder.Bumps = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-                    for (int i = 0; i < terrainComp.terrainData.splatPrototypes.Length; i++)
-                    {
-                        globalSettingsHolder.splats[i] = terrainComp.terrainData.splatPrototypes[i].texture;
-                        globalSettingsHolder.Bumps[i] = terrainComp.terrainData.splatPrototypes[i].normalMap;
-                    }
-#if UNITY_EDITOR
-                    globalSettingsHolder.numLayers = terrainComp.terrainData.splatPrototypes.Length;
-                    globalSettingsHolder.PrepareNormals();
-#endif
-                }
-                else {				
+					Terrain terrainComp = (Terrain)GetComponent(typeof(Terrain));
+					globalSettingsHolder.splats=new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
+					for(int i=0; i<terrainComp.terrainData.splatPrototypes.Length; i++) {
+						globalSettingsHolder.splats[i]=terrainComp.terrainData.splatPrototypes[i].texture;
+					}
+				} else {				
 					globalSettingsHolder.splats=new Texture2D[4];
 				}
 				globalSettingsHolder.numLayers=globalSettingsHolder.splats.Length;
@@ -170,9 +162,8 @@ public class ReliefTerrain : MonoBehaviour {
 			splatPrototypes[i].tileSize=Vector2.one;
 			splatPrototypes[i].tileOffset=new Vector2(1.0f / customTiling.x, 1.0f / customTiling.y);
 			splatPrototypes[i].texture=globalSettingsHolder.splats[i];
-            splatPrototypes[i].normalMap=globalSettingsHolder.Bumps[i];
-        }
-        Terrain terrainComp = (Terrain)GetComponent(typeof(Terrain));
+		}
+		Terrain terrainComp = (Terrain)GetComponent(typeof(Terrain));
 		terrainComp.terrainData.splatPrototypes=splatPrototypes;
 	}
 	
@@ -284,13 +275,14 @@ public class ReliefTerrain : MonoBehaviour {
 				}
 				globalSettingsHolder.use_mat=GetComponent<Renderer>().sharedMaterial; // local params to mesh material
 			}
-
-			if (terrainComp) {
-				if (terrainComp.materialTemplate!=null) {
-					globalSettingsHolder.use_mat=terrainComp.materialTemplate;
-					terrainComp.materialTemplate.SetVector("RTP_CustomTiling", new Vector4(1.0f / customTiling.x, 1.0f / customTiling.y, 0 ,0));
+			#if !UNITY_3_5
+				if (terrainComp) {
+					if (terrainComp.materialTemplate!=null) {
+						globalSettingsHolder.use_mat=terrainComp.materialTemplate;
+						terrainComp.materialTemplate.SetVector("RTP_CustomTiling", new Vector4(1.0f / customTiling.x, 1.0f / customTiling.y, 0 ,0));
+					}
 				}
-			}
+			#endif
 
 //			globalSettingsHolder.SetShaderParam("_ColorMapGlobal", ColorGlobal);
 //			globalSettingsHolder.SetShaderParam("_NormalMapGlobal", NormalGlobal);
@@ -340,13 +332,13 @@ public class ReliefTerrain : MonoBehaviour {
 		if (globalSettingsHolder.numLayers>8) {
 			globalSettingsHolder.SetShaderParam("_Control3", controlC);
 		}
-		//if (!terrainComp || globalSettingsHolder.numTiles<=1 || mat) {
+		if (!terrainComp || globalSettingsHolder.numTiles<=1 || mat) {
 			globalSettingsHolder.SetShaderParam("_ColorMapGlobal", ColorGlobal);
 			globalSettingsHolder.SetShaderParam("_NormalMapGlobal", NormalGlobal);
 			globalSettingsHolder.SetShaderParam("_TreesMapGlobal", TreesGlobal);
 			globalSettingsHolder.SetShaderParam("_AmbientEmissiveMapGlobal", AmbientEmissiveMap);
 			globalSettingsHolder.SetShaderParam("_BumpMapGlobal", BumpGlobalCombined);		
-		//}
+		}
 		globalSettingsHolder.use_mat=null;		
 	}
 	
@@ -961,19 +953,9 @@ public class ReliefTerrain : MonoBehaviour {
 		float[,] heights = new float[terrainData.heightmapResolution, terrainData.heightmapResolution];
 		float ntexel_size_u = 1.0f / hn_tex.width;
 		float ntexel_size_v = 1.0f / hn_tex.height;
-		float mult_u;
-		float mult_v;
-        if (bicubic_flag)
-        {
-            mult_u = (1.0f / (terrainData.heightmapResolution - 1));
-            mult_v = (1.0f / (terrainData.heightmapResolution - 1));
-        }
-        else
-        {
-            mult_u = (1.0f / (terrainData.heightmapResolution - 1)) * (1 - ntexel_size_u);
-            mult_v = (1.0f / (terrainData.heightmapResolution - 1)) * (1 - ntexel_size_v);
-        }
-        float off_u=ntexel_size_u*0.5f;
+		float mult_u = (1.0f / (terrainData.heightmapResolution-1)) * (1-ntexel_size_u);
+		float mult_v = (1.0f / (terrainData.heightmapResolution-1)) * (1-ntexel_size_v);
+		float off_u=ntexel_size_u*0.5f;
 		float off_v=ntexel_size_v*0.5f;
 		for(int _x = 0; _x<terrainData.heightmapResolution; _x++) {
 			float u=_x*mult_u+off_u;

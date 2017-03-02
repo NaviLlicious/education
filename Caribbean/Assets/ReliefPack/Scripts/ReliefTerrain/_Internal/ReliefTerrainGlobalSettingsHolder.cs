@@ -473,28 +473,15 @@ public class ReliefTerrainGlobalSettingsHolder
         if (terrainComp.terrainData.splatPrototypes.Length > numLayers)
         {
             Texture2D[] splats_new = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-            Texture2D[] Bumps_new = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-            for (int i = 0; i < splats.Length; i++)
-            {
-                splats_new[i] = splats[i];
-                Bumps_new[i] = Bumps[i];
-            }
+            for (int i = 0; i < splats.Length; i++) splats_new[i] = splats[i];
             splats = splats_new;
-            Bumps = Bumps_new;
             splats[terrainComp.terrainData.splatPrototypes.Length - 1] = terrainComp.terrainData.splatPrototypes[((terrainComp.terrainData.splatPrototypes.Length - 2) >= 0) ? (terrainComp.terrainData.splatPrototypes.Length - 2) : 0].texture;
-            Bumps[terrainComp.terrainData.splatPrototypes.Length - 1] = terrainComp.terrainData.splatPrototypes[((terrainComp.terrainData.splatPrototypes.Length - 2) >= 0) ? (terrainComp.terrainData.splatPrototypes.Length - 2) : 0].normalMap;
         }
         else if (terrainComp.terrainData.splatPrototypes.Length < numLayers)
         {
             Texture2D[] splats_new = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-            Texture2D[] Bumps_new = new Texture2D[terrainComp.terrainData.splatPrototypes.Length];
-            for (int i = 0; i < splats_new.Length; i++)
-            {
-                splats_new[i] = splats[i];
-                Bumps_new[i] = Bumps[i];
-            }
+            for (int i = 0; i < splats_new.Length; i++) splats_new[i] = splats[i];
             splats = splats_new;
-            Bumps = Bumps_new;
         }
         numLayers = terrainComp.terrainData.splatPrototypes.Length;
     }
@@ -2958,14 +2945,14 @@ public class ReliefTerrainGlobalSettingsHolder
         if (bumps[0] && bumps[1] && bumps[0].width != bumps[1].width)
         {
             Debug.LogError("Normal textures pair 0,1 should have the same size");
-            activateObject = bumps[0].width > bumps[1].width ? bumps[0] : bumps[1];
+            activateObject = bumps[1];
             //Time.timeScale=0; // pause
             return false;
         }
         if (bumps[2] && bumps[3] && bumps[2].width != bumps[3].width)
         {
             Debug.LogError("Normal textures pair 2,3 should have the same size");
-            activateObject = bumps[2].width > bumps[3].width ? bumps[2] : bumps[3];
+            activateObject = bumps[3];
             //Time.timeScale=0; // pause
             return false;
         }
@@ -2976,14 +2963,14 @@ public class ReliefTerrainGlobalSettingsHolder
             if (bumps[4] && bumps[5] && bumps[4].width != bumps[5].width)
             {
                 Debug.LogError("Normal textures pair 4,5 should have the same size");
-                activateObject = bumps[4].width > bumps[5].width ? bumps[4] : bumps[5];
+                activateObject = bumps[5];
                 //Time.timeScale=0; // pause
                 return false;
             }
             if (bumps[6] && bumps[7] && bumps[6].width != bumps[7].width)
             {
                 Debug.LogError("Normal textures pair 6,7 should have the same size");
-                activateObject = bumps[6].width > bumps[7].width ? bumps[6] : bumps[7];
+                activateObject = bumps[7];
                 //Time.timeScale=0; // pause
                 return false;
             }
@@ -2995,14 +2982,14 @@ public class ReliefTerrainGlobalSettingsHolder
             if (bumps[8] && bumps[9] && bumps[8].width != bumps[9].width)
             {
                 Debug.LogError("Normal textures pair 8,9 should have the same size");
-                activateObject = bumps[8].width > bumps[9].width ? bumps[8] : bumps[9];
+                activateObject = bumps[9];
                 //Time.timeScale=0; // pause
                 return false;
             }
             if (bumps[10] && bumps[11] && bumps[10].width != bumps[11].width)
             {
                 Debug.LogError("Normal textures pair 10,11 should have the same size");
-                activateObject = bumps[10].width > bumps[11].width ? bumps[10] : bumps[11];
+                activateObject = bumps[11];
                 //Time.timeScale=0; // pause
                 return false;
             }

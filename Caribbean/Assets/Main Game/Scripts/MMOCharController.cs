@@ -36,7 +36,7 @@ public class MMOCharController : MonoBehaviour
 	void Start () 
 	{
 		player = GetComponent<CharacterController> ();
-		zoom = -3.47f;
+		zoom = -21.1f;
 	}
 
 
