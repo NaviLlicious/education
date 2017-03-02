@@ -137,36 +137,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\ClearAuxTerrainTextures.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\FoldoutDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\PropBlockKeywordDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_BeginAreaDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_BlockInfoDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_ButtonDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_CustomShaderGUI.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_EndAreaDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_EnumDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_HeaderDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_HideByPropDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_LabelWidthDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_LayerSelector.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_MaterialPropDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_ShaderDefineToggle.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\RTP_TooltipDecorator.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\TexNoTilingDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\CustomDrawers\WarningInfoDrawer.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\ExportTerrainRTPtweaked.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\GeometryVsTerrainBlendEditor.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\RGBM2RGB.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\RTP_LODmanagerEditor.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\RTP_PostProcessMIPGloss.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\ReliefTerrainEditor.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\ResamplingService.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\SampleTerrainHeightmap2Texture.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\SelectorHelperClassEditor.cs" />
-    <Compile Include="Assets\ReliefPack\Editor\ReliefTerrain\TextureChannelMixer.cs" />
-    <Compile Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Standard\Editor\StandardShaderGUI_RTPGeomBlend.cs" />
-    <Compile Include="Assets\ReliefPack\Shaders\ReliefTerrain\VertexControl\Editor\ReliefTerrainVertexBlendTriplanarEditor.cs" />
     <Compile Include="Assets\SUIMONO - WATER SYSTEM 2\EDITOR\suimono_module_editor.cs" />
     <Compile Include="Assets\SUIMONO - WATER SYSTEM 2\EDITOR\suimono_modulefx_editor.cs" />
     <Compile Include="Assets\SUIMONO - WATER SYSTEM 2\EDITOR\suimono_object_editor.cs" />
@@ -311,6 +281,11 @@
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+    <None Include="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
+    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
+    <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
     <None Include="Assets\UniStorm (Desktop)\Additional Credit\Credit.txt" />
     <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Dynamic Light Clouds (Unity 5).shader" />
     <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Dynamic Light Clouds Desktop.shader" />
