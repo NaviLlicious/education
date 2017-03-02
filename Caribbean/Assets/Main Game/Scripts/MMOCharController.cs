@@ -9,7 +9,7 @@ public class MMOCharController : MonoBehaviour
 
 	private float mouseX, mouseY;
 	public float mouseSensitivity = 10f;
-	public float mouseYPosition = 1f;
+	public float mouseYPosition = 4f;
 
 	CharacterController player;
 
@@ -19,8 +19,8 @@ public class MMOCharController : MonoBehaviour
 	private float zoom;
 	public float zoomSpeed = 2;
 
-	public float zoomMin = -2f;
-	public float zoomMax = -10f;
+	public float zoomMin = -1.518f;
+	public float zoomMax = -8.94f;
 
 	public float rotationSpeed = 5f;
 
@@ -36,7 +36,7 @@ public class MMOCharController : MonoBehaviour
 	void Start () 
 	{
 		player = GetComponent<CharacterController> ();
-		zoom = -3;
+		zoom = -3.47f;
 	}
 
 
@@ -79,7 +79,7 @@ public class MMOCharController : MonoBehaviour
 
 		}
 			
-		if (Input.GetButtonDown ("Jump")) 
+		if (Input.GetKeyDown ("space")) 
 		{
 			Debug.Log ("Jumped");
 			verticalVelocity += jumpDist;
