@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 3aa859643b13f044b93c7da590c5a62e
+timeCreated: 1488516272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabin
+    100002: cabin 1
+    100004: cabin_17
+    100006: cabin_7
+    100008: custom
+    100010: custom 1
+    100012: custom 2
+    100014: custom_2
+    100016: deck
+    100018: deck 1
+    100020: deck 2
+    100022: deck_1
+    100024: deck_1 1
+    100026: deck_1 2
+    100028: deck_1_18
+    100030: deck_1_23
+    100032: deck_1_4
+    100034: deck_3
+    100036: deck_3_5
+    100038: deck_4
+    100040: deck_4_6
+    100042: geometry
+    100044: hull
+    100046: hull 1
+    100048: hull 2
+    100050: hull_11
+    100052: hull_13
+    100054: hull_26
+    100056: lod_high
+    100058: lod_low
+    100060: lod_medium
+    100062: mossA
+    100064: mossA 1
+    100066: mossA_1
+    100068: mossA_20
+    100070: mossB
+    100072: mossB 1
+    100074: mossB_0
+    100076: mossB_21
+    100078: //RootNode
+    100080: ram
+    100082: ram 1
+    100084: ram 2
+    100086: ram_1
+    100088: ram_1 1
+    100090: ram_1 2
+    100092: ram_14
+    100094: ram_1_15
+    100096: ram_1_25
+    100098: ram_1_9
+    100100: ram_24
+    100102: ram_4
+    100104: ram_4_10
+    100106: ram_5
+    100108: ram_5_16
+    100110: ram_8
+    100112: static
+    100114: static 1
+    100116: static 2
+    100118: static_12
+    100120: static_22
+    100122: static_3
+    100124: stripeA
+    100126: stripeA 1
+    100128: stripeA_19
+    100130: stripeA_27
+    100132: transparent
+    100134: transparent 1
+    400000: cabin
+    400002: cabin 1
+    400004: cabin_17
+    400006: cabin_7
+    400008: custom
+    400010: custom 1
+    400012: custom 2
+    400014: custom_2
+    400016: deck
+    400018: deck 1
+    400020: deck 2
+    400022: deck_1
+    400024: deck_1 1
+    400026: deck_1 2
+    400028: deck_1_18
+    400030: deck_1_23
+    400032: deck_1_4
+    400034: deck_3
+    400036: deck_3_5
+    400038: deck_4
+    400040: deck_4_6
+    400042: geometry
+    400044: hull
+    400046: hull 1
+    400048: hull 2
+    400050: hull_11
+    400052: hull_13
+    400054: hull_26
+    400056: lod_high
+    400058: lod_low
+    400060: lod_medium
+    400062: mossA
+    400064: mossA 1
+    400066: mossA_1
+    400068: mossA_20
+    400070: mossB
+    400072: mossB 1
+    400074: mossB_0
+    400076: mossB_21
+    400078: //RootNode
+    400080: ram
+    400082: ram 1
+    400084: ram 2
+    400086: ram_1
+    400088: ram_1 1
+    400090: ram_1 2
+    400092: ram_14
+    400094: ram_1_15
+    400096: ram_1_25
+    400098: ram_1_9
+    400100: ram_24
+    400102: ram_4
+    400104: ram_4_10
+    400106: ram_5
+    400108: ram_5_16
+    400110: ram_8
+    400112: static
+    400114: static 1
+    400116: static 2
+    400118: static_12
+    400120: static_22
+    400122: static_3
+    400124: stripeA
+    400126: stripeA 1
+    400128: stripeA_19
+    400130: stripeA_27
+    400132: transparent
+    400134: transparent 1
+    2300000: cabin_17
+    2300002: cabin_7
+    2300004: custom_2
+    2300006: deck_1_18
+    2300008: deck_1_23
+    2300010: deck_1_4
+    2300012: deck_3_5
+    2300014: deck_4_6
+    2300016: hull_11
+    2300018: hull_13
+    2300020: hull_26
+    2300022: mossA_1
+    2300024: mossA_20
+    2300026: mossB_0
+    2300028: mossB_21
+    2300030: ram_14
+    2300032: ram_1_15
+    2300034: ram_1_25
+    2300036: ram_1_9
+    2300038: ram_24
+    2300040: ram_4_10
+    2300042: ram_5_16
+    2300044: ram_8
+    2300046: static_12
+    2300048: static_22
+    2300050: static_3
+    2300052: stripeA_19
+    2300054: stripeA_27
+    3300000: cabin_17
+    3300002: cabin_7
+    3300004: custom_2
+    3300006: deck_1_18
+    3300008: deck_1_23
+    3300010: deck_1_4
+    3300012: deck_3_5
+    3300014: deck_4_6
+    3300016: hull_11
+    3300018: hull_13
+    3300020: hull_26
+    3300022: mossA_1
+    3300024: mossA_20
+    3300026: mossB_0
+    3300028: mossB_21
+    3300030: ram_14
+    3300032: ram_1_15
+    3300034: ram_1_25
+    3300036: ram_1_9
+    3300038: ram_24
+    3300040: ram_4_10
+    3300042: ram_5_16
+    3300044: ram_8
+    3300046: static_12
+    3300048: static_22
+    3300050: static_3
+    3300052: stripeA_19
+    3300054: stripeA_27
+    4300000: mossB_0
+    4300002: mossA_1
+    4300004: custom_2
+    4300006: deck_1_4
+    4300008: deck_3_5
+    4300010: deck_4_6
+    4300012: cabin_7
+    4300014: ram_1_9
+    4300016: ram_4_10
+    4300018: ram_8
+    4300020: hull_11
+    4300022: static_3
+    4300024: hull_13
+    4300026: ram_1_15
+    4300028: ram_5_16
+    4300030: ram_14
+    4300032: cabin_17
+    4300034: deck_1_18
+    4300036: static_12
+    4300038: stripeA_19
+    4300040: mossA_20
+    4300042: mossB_21
+    4300044: deck_1_23
+    4300046: ram_1_25
+    4300048: ram_24
+    4300050: hull_26
+    4300052: static_22
+    4300054: stripeA_27
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

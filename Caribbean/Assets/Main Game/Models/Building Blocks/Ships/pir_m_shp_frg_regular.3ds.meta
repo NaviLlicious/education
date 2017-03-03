@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 0746704b229e02d44a24d5d2b25b46f1
+timeCreated: 1488516160
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: custom
+    100002: custom 1
+    100004: custom 2
+    100006: custom 3
+    100008: deck
+    100010: deck 1
+    100012: deck 2
+    100014: deck 3
+    100016: deck_22
+    100018: deck_56
+    100020: deck_69
+    100022: deck_72
+    100024: deck_cabin_left
+    100026: deck_cabin_left_23
+    100028: deck_tower2
+    100030: deck_tower2_27
+    100032: geometry
+    100034: grate
+    100036: grate 1
+    100038: grate_0
+    100040: grate_0_37
+    100042: grate_1
+    100044: grate_1_38
+    100046: grate_2
+    100048: grate_2_39
+    100050: grate_3
+    100052: grate_3_40
+    100054: grate_59
+    100056: hull
+    100058: hull_73
+    100060: hullA
+    100062: hullA 1
+    100064: hullA 2
+    100066: hullA_18
+    100068: hullA_51
+    100070: hullA_65
+    100072: hullB
+    100074: hullB 1
+    100076: hullB 2
+    100078: hullB_20
+    100080: hullB_54
+    100082: hullB_67
+    100084: ledge_shelf
+    100086: ledge_shelf_28
+    100088: lod_high
+    100090: lod_low
+    100092: lod_medium
+    100094: lod_superlow
+    100096: mid
+    100098: mid 1
+    100100: mid 2
+    100102: mid1
+    100104: mid1_53
+    100106: mid_19
+    100108: mid_52
+    100110: mid_66
+    100112: pattern
+    100114: pattern 1
+    100116: pattern 2
+    100118: pattern_17
+    100120: pattern_50
+    100122: pattern_64
+    100124: //RootNode
+    100126: polySurface43
+    100128: polySurface43_25
+    100130: polySurface44
+    100132: polySurface44_24
+    100134: polySurface48
+    100136: polySurface48_26
+    100138: railing
+    100140: railing_43
+    100142: railingFrame
+    100144: railingFrame_42
+    100146: ribbing
+    100148: ribbing 1
+    100150: ribbing 2
+    100152: ribbing_47
+    100154: ribbing_5
+    100156: ribbing_62
+    100158: rigging_0
+    100160: rigging_0_44
+    100162: rigging_1
+    100164: rigging_1_45
+    100166: ropeLadder_mount
+    100168: ropeLadder_mount 1
+    100170: ropeLadder_mount_0
+    100172: ropeLadder_mount_0 1
+    100174: ropeLadder_mount_0 2
+    100176: ropeLadder_mount_0 3
+    100178: ropeLadder_mount_0_1
+    100180: ropeLadder_mount_0_1 1
+    100182: ropeLadder_mount_1
+    100184: ropeLadder_mount_1 1
+    100186: ropeLadder_mount_1_2
+    100188: ropeLadder_mount_1_2 1
+    100190: stairs
+    100192: stairs 1
+    100194: stairs 2
+    100196: stairs_0
+    100198: stairs_0_30
+    100200: stairs_1
+    100202: stairs_1_33
+    100204: stairs_5
+    100206: stairs_57
+    100208: stairs_5_34
+    100210: stairs_6
+    100212: stairs_6_35
+    100214: stairs_7
+    100216: stairs_70
+    100218: stairs_7_36
+    100220: stairs_front_left
+    100222: stairs_front_left_31
+    100224: stairs_front_right
+    100226: stairs_front_right_32
+    100228: stairSide
+    100230: stairSide 1
+    100232: stairSide_29
+    100234: stairSide_58
+    100236: stairStripe
+    100238: stairStripe 1
+    100240: stairStripe_0
+    100242: stairStripe_0_7
+    100244: stairStripe_1
+    100246: stairStripe_1_8
+    100248: stairStripe_2
+    100250: stairStripe_2_9
+    100252: stairStripe_3
+    100254: stairStripe_3_10
+    100256: stairStripe_4
+    100258: stairStripe_49
+    100260: stairStripe_4_11
+    100262: stairStripe_5
+    100264: stairStripe_5_12
+    100266: stairStripe_6
+    100268: stairStripe_6_13
+    100270: stairStripe_7
+    100272: stairStripe_7_14
+    100274: stairStripe_8
+    100276: stairStripe_8_15
+    100278: stairStripe_9
+    100280: stairStripe_9_16
+    100282: static
+    100284: static 1
+    100286: static 2
+    100288: static 3
+    100290: static_21
+    100292: static_55
+    100294: static_68
+    100296: stripeA
+    100298: stripeA 1
+    100300: stripeA 2
+    100302: stripeA 3
+    100304: stripeA_3
+    100306: stripeA_46
+    100308: stripeA_61
+    100310: stripeA_71
+    100312: transparent
+    100314: trim
+    100316: trim 1
+    100318: trim 2
+    100320: trim_48
+    100322: trim_6
+    100324: trim_63
+    100326: windowFrame
+    100328: windowFrame_4
+    100330: windowFront
+    100332: windowFront 1
+    100334: windowFront_41
+    100336: windowFront_60
+    400000: custom
+    400002: custom 1
+    400004: custom 2
+    400006: custom 3
+    400008: deck
+    400010: deck 1
+    400012: deck 2
+    400014: deck 3
+    400016: deck_22
+    400018: deck_56
+    400020: deck_69
+    400022: deck_72
+    400024: deck_cabin_left
+    400026: deck_cabin_left_23
+    400028: deck_tower2
+    400030: deck_tower2_27
+    400032: geometry
+    400034: grate
+    400036: grate 1
+    400038: grate_0
+    400040: grate_0_37
+    400042: grate_1
+    400044: grate_1_38
+    400046: grate_2
+    400048: grate_2_39
+    400050: grate_3
+    400052: grate_3_40
+    400054: grate_59
+    400056: hull
+    400058: hull_73
+    400060: hullA
+    400062: hullA 1
+    400064: hullA 2
+    400066: hullA_18
+    400068: hullA_51
+    400070: hullA_65
+    400072: hullB
+    400074: hullB 1
+    400076: hullB 2
+    400078: hullB_20
+    400080: hullB_54
+    400082: hullB_67
+    400084: ledge_shelf
+    400086: ledge_shelf_28
+    400088: lod_high
+    400090: lod_low
+    400092: lod_medium
+    400094: lod_superlow
+    400096: mid
+    400098: mid 1
+    400100: mid 2
+    400102: mid1
+    400104: mid1_53
+    400106: mid_19
+    400108: mid_52
+    400110: mid_66
+    400112: pattern
+    400114: pattern 1
+    400116: pattern 2
+    400118: pattern_17
+    400120: pattern_50
+    400122: pattern_64
+    400124: //RootNode
+    400126: polySurface43
+    400128: polySurface43_25
+    400130: polySurface44
+    400132: polySurface44_24
+    400134: polySurface48
+    400136: polySurface48_26
+    400138: railing
+    400140: railing_43
+    400142: railingFrame
+    400144: railingFrame_42
+    400146: ribbing
+    400148: ribbing 1
+    400150: ribbing 2
+    400152: ribbing_47
+    400154: ribbing_5
+    400156: ribbing_62
+    400158: rigging_0
+    400160: rigging_0_44
+    400162: rigging_1
+    400164: rigging_1_45
+    400166: ropeLadder_mount
+    400168: ropeLadder_mount 1
+    400170: ropeLadder_mount_0
+    400172: ropeLadder_mount_0 1
+    400174: ropeLadder_mount_0 2
+    400176: ropeLadder_mount_0 3
+    400178: ropeLadder_mount_0_1
+    400180: ropeLadder_mount_0_1 1
+    400182: ropeLadder_mount_1
+    400184: ropeLadder_mount_1 1
+    400186: ropeLadder_mount_1_2
+    400188: ropeLadder_mount_1_2 1
+    400190: stairs
+    400192: stairs 1
+    400194: stairs 2
+    400196: stairs_0
+    400198: stairs_0_30
+    400200: stairs_1
+    400202: stairs_1_33
+    400204: stairs_5
+    400206: stairs_57
+    400208: stairs_5_34
+    400210: stairs_6
+    400212: stairs_6_35
+    400214: stairs_7
+    400216: stairs_70
+    400218: stairs_7_36
+    400220: stairs_front_left
+    400222: stairs_front_left_31
+    400224: stairs_front_right
+    400226: stairs_front_right_32
+    400228: stairSide
+    400230: stairSide 1
+    400232: stairSide_29
+    400234: stairSide_58
+    400236: stairStripe
+    400238: stairStripe 1
+    400240: stairStripe_0
+    400242: stairStripe_0_7
+    400244: stairStripe_1
+    400246: stairStripe_1_8
+    400248: stairStripe_2
+    400250: stairStripe_2_9
+    400252: stairStripe_3
+    400254: stairStripe_3_10
+    400256: stairStripe_4
+    400258: stairStripe_49
+    400260: stairStripe_4_11
+    400262: stairStripe_5
+    400264: stairStripe_5_12
+    400266: stairStripe_6
+    400268: stairStripe_6_13
+    400270: stairStripe_7
+    400272: stairStripe_7_14
+    400274: stairStripe_8
+    400276: stairStripe_8_15
+    400278: stairStripe_9
+    400280: stairStripe_9_16
+    400282: static
+    400284: static 1
+    400286: static 2
+    400288: static 3
+    400290: static_21
+    400292: static_55
+    400294: static_68
+    400296: stripeA
+    400298: stripeA 1
+    400300: stripeA 2
+    400302: stripeA 3
+    400304: stripeA_3
+    400306: stripeA_46
+    400308: stripeA_61
+    400310: stripeA_71
+    400312: transparent
+    400314: trim
+    400316: trim 1
+    400318: trim 2
+    400320: trim_48
+    400322: trim_6
+    400324: trim_63
+    400326: windowFrame
+    400328: windowFrame_4
+    400330: windowFront
+    400332: windowFront 1
+    400334: windowFront_41
+    400336: windowFront_60
+    2300000: deck_22
+    2300002: deck_56
+    2300004: deck_69
+    2300006: deck_72
+    2300008: deck_cabin_left_23
+    2300010: deck_tower2_27
+    2300012: grate_0_37
+    2300014: grate_1_38
+    2300016: grate_2_39
+    2300018: grate_3_40
+    2300020: grate_59
+    2300022: hull_73
+    2300024: hullA_18
+    2300026: hullA_51
+    2300028: hullA_65
+    2300030: hullB_20
+    2300032: hullB_54
+    2300034: hullB_67
+    2300036: ledge_shelf_28
+    2300038: mid1_53
+    2300040: mid_19
+    2300042: mid_52
+    2300044: mid_66
+    2300046: pattern_17
+    2300048: pattern_50
+    2300050: pattern_64
+    2300052: polySurface43_25
+    2300054: polySurface44_24
+    2300056: polySurface48_26
+    2300058: railing_43
+    2300060: railingFrame_42
+    2300062: ribbing_47
+    2300064: ribbing_5
+    2300066: ribbing_62
+    2300068: rigging_0_44
+    2300070: rigging_1_45
+    2300072: ropeLadder_mount_0
+    2300074: ropeLadder_mount_0 1
+    2300076: ropeLadder_mount_0 2
+    2300078: ropeLadder_mount_0 3
+    2300080: ropeLadder_mount_0_1
+    2300082: ropeLadder_mount_0_1 1
+    2300084: ropeLadder_mount_1_2
+    2300086: ropeLadder_mount_1_2 1
+    2300088: stairs_0_30
+    2300090: stairs_1_33
+    2300092: stairs_57
+    2300094: stairs_5_34
+    2300096: stairs_6_35
+    2300098: stairs_70
+    2300100: stairs_7_36
+    2300102: stairs_front_left_31
+    2300104: stairs_front_right_32
+    2300106: stairSide_29
+    2300108: stairSide_58
+    2300110: stairStripe_0_7
+    2300112: stairStripe_1_8
+    2300114: stairStripe_2_9
+    2300116: stairStripe_3_10
+    2300118: stairStripe_49
+    2300120: stairStripe_4_11
+    2300122: stairStripe_5_12
+    2300124: stairStripe_6_13
+    2300126: stairStripe_7_14
+    2300128: stairStripe_8_15
+    2300130: stairStripe_9_16
+    2300132: static_21
+    2300134: static_55
+    2300136: static_68
+    2300138: stripeA_3
+    2300140: stripeA_46
+    2300142: stripeA_61
+    2300144: stripeA_71
+    2300146: trim_48
+    2300148: trim_6
+    2300150: trim_63
+    2300152: windowFrame_4
+    2300154: windowFront_41
+    2300156: windowFront_60
+    3300000: deck_22
+    3300002: deck_56
+    3300004: deck_69
+    3300006: deck_72
+    3300008: deck_cabin_left_23
+    3300010: deck_tower2_27
+    3300012: grate_0_37
+    3300014: grate_1_38
+    3300016: grate_2_39
+    3300018: grate_3_40
+    3300020: grate_59
+    3300022: hull_73
+    3300024: hullA_18
+    3300026: hullA_51
+    3300028: hullA_65
+    3300030: hullB_20
+    3300032: hullB_54
+    3300034: hullB_67
+    3300036: ledge_shelf_28
+    3300038: mid1_53
+    3300040: mid_19
+    3300042: mid_52
+    3300044: mid_66
+    3300046: pattern_17
+    3300048: pattern_50
+    3300050: pattern_64
+    3300052: polySurface43_25
+    3300054: polySurface44_24
+    3300056: polySurface48_26
+    3300058: railing_43
+    3300060: railingFrame_42
+    3300062: ribbing_47
+    3300064: ribbing_5
+    3300066: ribbing_62
+    3300068: rigging_0_44
+    3300070: rigging_1_45
+    3300072: ropeLadder_mount_0
+    3300074: ropeLadder_mount_0 1
+    3300076: ropeLadder_mount_0 2
+    3300078: ropeLadder_mount_0 3
+    3300080: ropeLadder_mount_0_1
+    3300082: ropeLadder_mount_0_1 1
+    3300084: ropeLadder_mount_1_2
+    3300086: ropeLadder_mount_1_2 1
+    3300088: stairs_0_30
+    3300090: stairs_1_33
+    3300092: stairs_57
+    3300094: stairs_5_34
+    3300096: stairs_6_35
+    3300098: stairs_70
+    3300100: stairs_7_36
+    3300102: stairs_front_left_31
+    3300104: stairs_front_right_32
+    3300106: stairSide_29
+    3300108: stairSide_58
+    3300110: stairStripe_0_7
+    3300112: stairStripe_1_8
+    3300114: stairStripe_2_9
+    3300116: stairStripe_3_10
+    3300118: stairStripe_49
+    3300120: stairStripe_4_11
+    3300122: stairStripe_5_12
+    3300124: stairStripe_6_13
+    3300126: stairStripe_7_14
+    3300128: stairStripe_8_15
+    3300130: stairStripe_9_16
+    3300132: static_21
+    3300134: static_55
+    3300136: static_68
+    3300138: stripeA_3
+    3300140: stripeA_46
+    3300142: stripeA_61
+    3300144: stripeA_71
+    3300146: trim_48
+    3300148: trim_6
+    3300150: trim_63
+    3300152: windowFrame_4
+    3300154: windowFront_41
+    3300156: windowFront_60
+    4300000: windowFrame_4
+    4300002: ribbing_5
+    4300004: trim_6
+    4300006: ropeLadder_mount_0
+    4300008: ropeLadder_mount_0_1
+    4300010: ropeLadder_mount_1_2
+    4300012: stairStripe_0_7
+    4300014: stairStripe_1_8
+    4300016: stairStripe_2_9
+    4300018: stairStripe_3_10
+    4300020: stairStripe_4_11
+    4300022: stairStripe_5_12
+    4300024: stairStripe_6_13
+    4300026: stairStripe_7_14
+    4300028: stairStripe_8_15
+    4300030: stairStripe_9_16
+    4300032: stripeA_3
+    4300034: pattern_17
+    4300036: mid_19
+    4300038: hullA_18
+    4300040: hullB_20
+    4300042: deck_cabin_left_23
+    4300044: polySurface44_24
+    4300046: polySurface43_25
+    4300048: polySurface48_26
+    4300050: deck_tower2_27
+    4300052: ledge_shelf_28
+    4300054: deck_22
+    4300056: stairSide_29
+    4300058: stairs_0_30
+    4300060: stairs_front_left_31
+    4300062: stairs_front_right_32
+    4300064: stairs_1_33
+    4300066: stairs_5_34
+    4300068: stairs_6_35
+    4300070: stairs_7_36
+    4300072: grate_0_37
+    4300074: grate_1_38
+    4300076: grate_2_39
+    4300078: grate_3_40
+    4300080: windowFront_41
+    4300082: railingFrame_42
+    4300084: static_21
+    4300086: railing_43
+    4300088: rigging_0_44
+    4300090: rigging_1_45
+    4300092: ribbing_47
+    4300094: trim_48
+    4300096: stairStripe_49
+    4300098: stripeA_46
+    4300100: pattern_50
+    4300102: mid_52
+    4300104: mid1_53
+    4300106: hullA_51
+    4300108: hullB_54
+    4300110: deck_56
+    4300112: stairSide_58
+    4300114: stairs_57
+    4300116: grate_59
+    4300118: windowFront_60
+    4300120: static_55
+    4300122: ribbing_62
+    4300124: trim_63
+    4300126: stripeA_61
+    4300128: pattern_64
+    4300130: mid_66
+    4300132: hullA_65
+    4300134: hullB_67
+    4300136: deck_69
+    4300138: stairs_70
+    4300140: static_68
+    4300142: stripeA_71
+    4300144: deck_72
+    4300146: hull_73
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

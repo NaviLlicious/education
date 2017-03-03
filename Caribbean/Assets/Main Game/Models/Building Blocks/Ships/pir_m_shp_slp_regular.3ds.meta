@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 64709308257ec8648a11a617faf4be38
+timeCreated: 1488516321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrels
+    100002: barrels_8
+    100004: crates
+    100006: crates_9
+    100008: custom
+    100010: custom 1
+    100012: custom 2
+    100014: custom 3
+    100016: custom_10
+    100018: custom_16
+    100020: custom_27
+    100022: custom_32
+    100024: deck
+    100026: deck_2
+    100028: deck_left2
+    100030: deck_left2_6
+    100032: deck_left3
+    100034: deck_left3_7
+    100036: deck_left4
+    100038: deck_left4_4
+    100040: deck_left7
+    100042: deck_left7_24
+    100044: deck_left8
+    100046: deck_left8_23
+    100048: deck_right1
+    100050: deck_right1_5
+    100052: deck_right2
+    100054: deck_right2_3
+    100056: deck_right5
+    100058: deck_right5_21
+    100060: deck_right7
+    100062: deck_right7_22
+    100064: geometry
+    100066: hull
+    100068: hull_14
+    100070: hullA
+    100072: hullA 1
+    100074: hullA 2
+    100076: hullA 3
+    100078: hullA_13
+    100080: hullA_19
+    100082: hullA_30
+    100084: hullA_33
+    100086: lod_high
+    100088: lod_low
+    100090: lod_medium
+    100092: lod_superlow
+    100094: pattern
+    100096: pattern_28
+    100098: //RootNode
+    100100: props
+    100102: static
+    100104: static 1
+    100106: static 2
+    100108: static 3
+    100110: static_0
+    100112: static_20
+    100114: static_26
+    100116: static_31
+    100118: stripeA
+    100120: stripeA 1
+    100122: stripeA 2
+    100124: stripeA_11
+    100126: stripeA_17
+    100128: stripeA_29
+    100130: stripeB
+    100132: stripeB 1
+    100134: stripeB_12
+    100136: stripeB_18
+    100138: transparent
+    100140: transparent_15
+    100142: windows
+    100144: windows 1
+    100146: windows_1
+    100148: windows_25
+    400000: barrels
+    400002: barrels_8
+    400004: crates
+    400006: crates_9
+    400008: custom
+    400010: custom 1
+    400012: custom 2
+    400014: custom 3
+    400016: custom_10
+    400018: custom_16
+    400020: custom_27
+    400022: custom_32
+    400024: deck
+    400026: deck_2
+    400028: deck_left2
+    400030: deck_left2_6
+    400032: deck_left3
+    400034: deck_left3_7
+    400036: deck_left4
+    400038: deck_left4_4
+    400040: deck_left7
+    400042: deck_left7_24
+    400044: deck_left8
+    400046: deck_left8_23
+    400048: deck_right1
+    400050: deck_right1_5
+    400052: deck_right2
+    400054: deck_right2_3
+    400056: deck_right5
+    400058: deck_right5_21
+    400060: deck_right7
+    400062: deck_right7_22
+    400064: geometry
+    400066: hull
+    400068: hull_14
+    400070: hullA
+    400072: hullA 1
+    400074: hullA 2
+    400076: hullA 3
+    400078: hullA_13
+    400080: hullA_19
+    400082: hullA_30
+    400084: hullA_33
+    400086: lod_high
+    400088: lod_low
+    400090: lod_medium
+    400092: lod_superlow
+    400094: pattern
+    400096: pattern_28
+    400098: //RootNode
+    400100: props
+    400102: static
+    400104: static 1
+    400106: static 2
+    400108: static 3
+    400110: static_0
+    400112: static_20
+    400114: static_26
+    400116: static_31
+    400118: stripeA
+    400120: stripeA 1
+    400122: stripeA 2
+    400124: stripeA_11
+    400126: stripeA_17
+    400128: stripeA_29
+    400130: stripeB
+    400132: stripeB 1
+    400134: stripeB_12
+    400136: stripeB_18
+    400138: transparent
+    400140: transparent_15
+    400142: windows
+    400144: windows 1
+    400146: windows_1
+    400148: windows_25
+    2300000: barrels_8
+    2300002: crates_9
+    2300004: custom_10
+    2300006: custom_16
+    2300008: custom_27
+    2300010: custom_32
+    2300012: deck_2
+    2300014: deck_left2_6
+    2300016: deck_left3_7
+    2300018: deck_left4_4
+    2300020: deck_left7_24
+    2300022: deck_left8_23
+    2300024: deck_right1_5
+    2300026: deck_right2_3
+    2300028: deck_right5_21
+    2300030: deck_right7_22
+    2300032: hull_14
+    2300034: hullA_13
+    2300036: hullA_19
+    2300038: hullA_30
+    2300040: hullA_33
+    2300042: pattern_28
+    2300044: static_0
+    2300046: static_20
+    2300048: static_26
+    2300050: static_31
+    2300052: stripeA_11
+    2300054: stripeA_17
+    2300056: stripeA_29
+    2300058: stripeB_12
+    2300060: stripeB_18
+    2300062: transparent_15
+    2300064: windows_1
+    2300066: windows_25
+    3300000: barrels_8
+    3300002: crates_9
+    3300004: custom_10
+    3300006: custom_16
+    3300008: custom_27
+    3300010: custom_32
+    3300012: deck_2
+    3300014: deck_left2_6
+    3300016: deck_left3_7
+    3300018: deck_left4_4
+    3300020: deck_left7_24
+    3300022: deck_left8_23
+    3300024: deck_right1_5
+    3300026: deck_right2_3
+    3300028: deck_right5_21
+    3300030: deck_right7_22
+    3300032: hull_14
+    3300034: hullA_13
+    3300036: hullA_19
+    3300038: hullA_30
+    3300040: hullA_33
+    3300042: pattern_28
+    3300044: static_0
+    3300046: static_20
+    3300048: static_26
+    3300050: static_31
+    3300052: stripeA_11
+    3300054: stripeA_17
+    3300056: stripeA_29
+    3300058: stripeB_12
+    3300060: stripeB_18
+    3300062: transparent_15
+    3300064: windows_1
+    3300066: windows_25
+    4300000: windows_1
+    4300002: deck_right2_3
+    4300004: deck_left4_4
+    4300006: deck_right1_5
+    4300008: deck_left2_6
+    4300010: deck_left3_7
+    4300012: deck_2
+    4300014: barrels_8
+    4300016: crates_9
+    4300018: static_0
+    4300020: stripeA_11
+    4300022: stripeB_12
+    4300024: hull_14
+    4300026: hullA_13
+    4300028: custom_10
+    4300030: transparent_15
+    4300032: stripeA_17
+    4300034: stripeB_18
+    4300036: hullA_19
+    4300038: custom_16
+    4300040: deck_right5_21
+    4300042: deck_right7_22
+    4300044: deck_left8_23
+    4300046: deck_left7_24
+    4300048: windows_25
+    4300050: static_20
+    4300052: static_26
+    4300054: pattern_28
+    4300056: stripeA_29
+    4300058: hullA_30
+    4300060: custom_27
+    4300062: static_31
+    4300064: hullA_33
+    4300066: custom_32
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

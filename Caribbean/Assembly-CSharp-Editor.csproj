@@ -164,6 +164,7 @@
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\RTP_Base.cginc" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\RESOURCES\SUIMONO_PRESETS_Built-In Presets\SUIMONO_PRESET_Mud Thick Brown.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\RESOURCES\SUIMONO_PRESETS_Built-In Presets\SUIMONO_PRESET_Hot Spring Murky.txt" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\SHADERS\SuimonoDistanceBlur.shader" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\_DEMO\OBJECTS\Shaders\Suimono2_Demo_HairSpec.shader" />
@@ -173,6 +174,7 @@
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\GeometryBlend_BumpedSpecular.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
+     <None Include="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\SHADERS\Suimono2_FX_Fog.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Standard\GeomBlend_Standard.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\Planet\PlanetaryTerrain guidelines.txt" />
@@ -182,6 +184,7 @@
      <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Stars.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\layer count info.txt" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Water\GeometryBlend_WaterShader U5.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
      <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Non-Dynamic Clouds (Unity 5).shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\Bonus shaders\Customizable\CustomizableShader2Layers.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\Bonus shaders\LegacyLighting\PM_2VertexPaint.shader" />
@@ -191,6 +194,7 @@
      <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Snow.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\Planet\ReliefTerrainTriplanarPlanet.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\Planet\UnityPBSLighting.cginc" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\Water\GeometryBlend_WaterShader_FlowMap U5.shader" />
      <None Include="Assets\ReliefPack\OpenFootage\_info.txt" />
      <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Moon.shader" />
@@ -270,6 +274,7 @@
      <None Include="Assets\SUIMONO - WATER SYSTEM 2\SHADERS\Suimono2_clearfx.shader" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\VertexControl\ReliefTerrainPMTriplanarStandalone Tessellation(Phong).shader" />
      <None Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\Shaders\Current\UniStorm Dynamic Snow.shader" />
+     <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
      <None Include="Assets\ReliefPack\Shaders\ReliefTerrain\GeomBlendCompliant\2xParallaxMapped\GeometryBlend_PM_2VertexPaint.shader" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />

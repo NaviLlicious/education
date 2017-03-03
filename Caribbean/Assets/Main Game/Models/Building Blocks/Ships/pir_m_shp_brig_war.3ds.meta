@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 975aab73fd3b4dc4d996e0b65faa1dfc
+timeCreated: 1488516091
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: custom
+    100002: custom 1
+    100004: custom 2
+    100006: custom_31
+    100008: deck
+    100010: deck 1
+    100012: deck 2
+    100014: deck_27
+    100016: deck_36
+    100018: extras
+    100020: extras_20
+    100022: geometry
+    100024: grate
+    100026: grate 1
+    100028: grate_28
+    100030: grates
+    100032: grates_13
+    100034: hull
+    100036: hull 1
+    100038: hull 2
+    100040: hull 3
+    100042: hull_0
+    100044: hull_29
+    100046: hull_37
+    100048: hull_41
+    100050: hullA_dark
+    100052: hullA_dark 1
+    100054: hullA_dark 2
+    100056: hullA_dark 3
+    100058: hullA_dark_2
+    100060: hullA_dark_30
+    100062: hullA_dark_38
+    100064: hullA_dark_42
+    100066: hullC
+    100068: hullC_1
+    100070: lod_high
+    100072: lod_low
+    100074: lod_medium
+    100076: lod_superlow
+    100078: lod_superlow_39
+    100080: pattenA
+    100082: pattenA_34
+    100084: patternA
+    100086: patternA 1
+    100088: patternA_19
+    100090: patternA_26
+    100092: //RootNode
+    100094: posts
+    100096: posts_4
+    100098: rail_posts
+    100100: rail_posts_5
+    100102: ropeLadder_0
+    100104: ropeLadder_0_21
+    100106: ropeLadder_1
+    100108: ropeLadder_1_22
+    100110: ship_deck
+    100112: ship_deck_14
+    100114: stair_walls
+    100116: stair_walls_3
+    100118: stairs_aft
+    100120: stairs_aft2
+    100122: stairs_aft2_12
+    100124: stairs_aft_9
+    100126: stairs_fore
+    100128: stairs_fore2
+    100130: stairs_fore2_11
+    100132: stairs_fore_8
+    100134: stairs_mid
+    100136: stairs_mid2
+    100138: stairs_mid2_10
+    100140: stairs_mid_7
+    100142: static
+    100144: static 1
+    100146: static 2
+    100148: static 3
+    100150: static_35
+    100152: static_40
+    100154: steps
+    100156: stripeA
+    100158: stripeA 1
+    100160: stripeA 2
+    100162: stripeA_18
+    100164: stripeA_25
+    100166: stripeA_32
+    100168: stripeA_33
+    100170: stripeB
+    100172: stripeB 1
+    100174: stripeB_17
+    100176: stripeB_24
+    100178: stripeC
+    100180: stripeC 1
+    100182: stripeC_15
+    100184: stripeC_23
+    100186: transparent
+    100188: window_trim
+    100190: window_trim_16
+    100192: windows
+    100194: windows_6
+    400000: custom
+    400002: custom 1
+    400004: custom 2
+    400006: custom_31
+    400008: deck
+    400010: deck 1
+    400012: deck 2
+    400014: deck_27
+    400016: deck_36
+    400018: extras
+    400020: extras_20
+    400022: geometry
+    400024: grate
+    400026: grate 1
+    400028: grate_28
+    400030: grates
+    400032: grates_13
+    400034: hull
+    400036: hull 1
+    400038: hull 2
+    400040: hull 3
+    400042: hull_0
+    400044: hull_29
+    400046: hull_37
+    400048: hull_41
+    400050: hullA_dark
+    400052: hullA_dark 1
+    400054: hullA_dark 2
+    400056: hullA_dark 3
+    400058: hullA_dark_2
+    400060: hullA_dark_30
+    400062: hullA_dark_38
+    400064: hullA_dark_42
+    400066: hullC
+    400068: hullC_1
+    400070: lod_high
+    400072: lod_low
+    400074: lod_medium
+    400076: lod_superlow
+    400078: lod_superlow_39
+    400080: pattenA
+    400082: pattenA_34
+    400084: patternA
+    400086: patternA 1
+    400088: patternA_19
+    400090: patternA_26
+    400092: //RootNode
+    400094: posts
+    400096: posts_4
+    400098: rail_posts
+    400100: rail_posts_5
+    400102: ropeLadder_0
+    400104: ropeLadder_0_21
+    400106: ropeLadder_1
+    400108: ropeLadder_1_22
+    400110: ship_deck
+    400112: ship_deck_14
+    400114: stair_walls
+    400116: stair_walls_3
+    400118: stairs_aft
+    400120: stairs_aft2
+    400122: stairs_aft2_12
+    400124: stairs_aft_9
+    400126: stairs_fore
+    400128: stairs_fore2
+    400130: stairs_fore2_11
+    400132: stairs_fore_8
+    400134: stairs_mid
+    400136: stairs_mid2
+    400138: stairs_mid2_10
+    400140: stairs_mid_7
+    400142: static
+    400144: static 1
+    400146: static 2
+    400148: static 3
+    400150: static_35
+    400152: static_40
+    400154: steps
+    400156: stripeA
+    400158: stripeA 1
+    400160: stripeA 2
+    400162: stripeA_18
+    400164: stripeA_25
+    400166: stripeA_32
+    400168: stripeA_33
+    400170: stripeB
+    400172: stripeB 1
+    400174: stripeB_17
+    400176: stripeB_24
+    400178: stripeC
+    400180: stripeC 1
+    400182: stripeC_15
+    400184: stripeC_23
+    400186: transparent
+    400188: window_trim
+    400190: window_trim_16
+    400192: windows
+    400194: windows_6
+    2300000: custom_31
+    2300002: deck_27
+    2300004: deck_36
+    2300006: extras_20
+    2300008: grate_28
+    2300010: grates_13
+    2300012: hull_0
+    2300014: hull_29
+    2300016: hull_37
+    2300018: hull_41
+    2300020: hullA_dark_2
+    2300022: hullA_dark_30
+    2300024: hullA_dark_38
+    2300026: hullA_dark_42
+    2300028: hullC_1
+    2300030: lod_superlow_39
+    2300032: pattenA_34
+    2300034: patternA_19
+    2300036: patternA_26
+    2300038: posts_4
+    2300040: rail_posts_5
+    2300042: ropeLadder_0_21
+    2300044: ropeLadder_1_22
+    2300046: ship_deck_14
+    2300048: stair_walls_3
+    2300050: stairs_aft2_12
+    2300052: stairs_aft_9
+    2300054: stairs_fore2_11
+    2300056: stairs_fore_8
+    2300058: stairs_mid2_10
+    2300060: stairs_mid_7
+    2300062: static_35
+    2300064: static_40
+    2300066: stripeA_18
+    2300068: stripeA_25
+    2300070: stripeA_32
+    2300072: stripeA_33
+    2300074: stripeB_17
+    2300076: stripeB_24
+    2300078: stripeC_15
+    2300080: stripeC_23
+    2300082: window_trim_16
+    2300084: windows_6
+    3300000: custom_31
+    3300002: deck_27
+    3300004: deck_36
+    3300006: extras_20
+    3300008: grate_28
+    3300010: grates_13
+    3300012: hull_0
+    3300014: hull_29
+    3300016: hull_37
+    3300018: hull_41
+    3300020: hullA_dark_2
+    3300022: hullA_dark_30
+    3300024: hullA_dark_38
+    3300026: hullA_dark_42
+    3300028: hullC_1
+    3300030: lod_superlow_39
+    3300032: pattenA_34
+    3300034: patternA_19
+    3300036: patternA_26
+    3300038: posts_4
+    3300040: rail_posts_5
+    3300042: ropeLadder_0_21
+    3300044: ropeLadder_1_22
+    3300046: ship_deck_14
+    3300048: stair_walls_3
+    3300050: stairs_aft2_12
+    3300052: stairs_aft_9
+    3300054: stairs_fore2_11
+    3300056: stairs_fore_8
+    3300058: stairs_mid2_10
+    3300060: stairs_mid_7
+    3300062: static_35
+    3300064: static_40
+    3300066: stripeA_18
+    3300068: stripeA_25
+    3300070: stripeA_32
+    3300072: stripeA_33
+    3300074: stripeB_17
+    3300076: stripeB_24
+    3300078: stripeC_15
+    3300080: stripeC_23
+    3300082: window_trim_16
+    3300084: windows_6
+    4300000: hullC_1
+    4300002: stair_walls_3
+    4300004: hullA_dark_2
+    4300006: hull_0
+    4300008: rail_posts_5
+    4300010: posts_4
+    4300012: windows_6
+    4300014: stairs_mid_7
+    4300016: stairs_fore_8
+    4300018: stairs_aft_9
+    4300020: stairs_mid2_10
+    4300022: stairs_fore2_11
+    4300024: stairs_aft2_12
+    4300026: grates_13
+    4300028: ship_deck_14
+    4300030: window_trim_16
+    4300032: stripeC_15
+    4300034: stripeB_17
+    4300036: stripeA_18
+    4300038: patternA_19
+    4300040: extras_20
+    4300042: ropeLadder_0_21
+    4300044: ropeLadder_1_22
+    4300046: stripeC_23
+    4300048: stripeB_24
+    4300050: stripeA_25
+    4300052: patternA_26
+    4300054: deck_27
+    4300056: grate_28
+    4300058: hullA_dark_30
+    4300060: hull_29
+    4300062: stripeA_32
+    4300064: stripeA_33
+    4300066: pattenA_34
+    4300068: custom_31
+    4300070: deck_36
+    4300072: hullA_dark_38
+    4300074: hull_37
+    4300076: static_35
+    4300078: hullA_dark_42
+    4300080: hull_41
+    4300082: static_40
+    4300084: lod_superlow_39
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

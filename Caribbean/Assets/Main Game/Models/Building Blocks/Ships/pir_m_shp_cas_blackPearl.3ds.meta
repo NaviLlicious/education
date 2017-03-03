@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: fc038427460081d4f9d7ac4a7d438402
+timeCreated: 1488516164
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anchors
+    100002: anchors 1
+    100004: anchors_14
+    100006: anchors_56
+    100008: angel
+    100010: angel 1
+    100012: angel_52
+    100014: angel_89
+    100016: bellTower
+    100018: bellTower 1
+    100020: bellTower_15
+    100022: bellTower_16
+    100024: bellTower_57
+    100026: bellTower_58
+    100028: cabin_door
+    100030: cabin_door 1
+    100032: cabin_door_40
+    100034: cabin_door_77
+    100036: cabinStatueBase
+    100038: cabinStatueBase 1
+    100040: cabinStatueBase_34
+    100042: cabinStatueBase_71
+    100044: cabinStatues
+    100046: cabinStatues 1
+    100048: cabinStatues_18
+    100050: cabinStatues_60
+    100052: crate
+    100054: crate 1
+    100056: crate 2
+    100058: crate 3
+    100060: crate_0
+    100062: crate_0 1
+    100064: crate_0 2
+    100066: crate_0 3
+    100068: crate_0_0
+    100070: crate_0_0 1
+    100072: crate_0_5
+    100074: crate_0_5 1
+    100076: crate_1
+    100078: crate_1 1
+    100080: crate_1 2
+    100082: crate_1_20
+    100084: crate_1_6
+    100086: crate_1_6 1
+    100088: crate_2
+    100090: crate_2 1
+    100092: crate_2 2
+    100094: crate_2_21
+    100096: crate_2_7
+    100098: crate_2_7 1
+    100100: crate_3
+    100102: crate_3 1
+    100104: crate_3 2
+    100106: crate_3_1
+    100108: crate_3_1 1
+    100110: crate_3_23
+    100112: crate_4
+    100114: crate_4 1
+    100116: crate_4 2
+    100118: crate_4 3
+    100120: crate_4_2
+    100122: crate_4_2 1
+    100124: crate_4_8
+    100126: crate_4_8 1
+    100128: crate_5
+    100130: crate_5 1
+    100132: crate_5 2
+    100134: crate_5 3
+    100136: crate_5_3
+    100138: crate_5_3 1
+    100140: crate_5_9
+    100142: crate_5_9 1
+    100144: crate_6
+    100146: crate_6 1
+    100148: crate_6 2
+    100150: crate_6 3
+    100152: crate_6_10
+    100154: crate_6_10 1
+    100156: crate_6_4
+    100158: crate_6_4 1
+    100160: crateBarrel_group1
+    100162: crateBarrel_group1 1
+    100164: crateBarrel_group1_19
+    100166: crateBarrel_group1_61
+    100168: crateBarrel_group2
+    100170: crateBarrel_group2 1
+    100172: crateBarrel_group2_22
+    100174: crateBarrel_group2_62
+    100176: custom
+    100178: custom 1
+    100180: custom_31
+    100182: custom_69
+    100184: deck
+    100186: deck 1
+    100188: deck_28
+    100190: deckFore
+    100192: deckFore 1
+    100194: deckFore_30
+    100196: deckFore_68
+    100198: deckMain
+    100200: deckMain 1
+    100202: deckMain_29
+    100204: deckMain_67
+    100206: designs
+    100208: designs 1
+    100210: designs_49
+    100212: designs_86
+    100214: geometry
+    100216: grates
+    100218: grates 1
+    100220: hand_railA
+    100222: hand_railA 1
+    100224: hand_railA_38
+    100226: hand_railA_75
+    100228: hand_railB
+    100230: hand_railB 1
+    100232: hand_railB_39
+    100234: hand_railB_76
+    100236: hatch14
+    100238: hatch14 1
+    100240: hatch14_26
+    100242: hatch14_65
+    100244: hatch3
+    100246: hatch3 1
+    100248: hatch3_24
+    100250: hatch3_63
+    100252: hatch4
+    100254: hatch4 1
+    100256: hatch4_27
+    100258: hatch4_66
+    100260: hull
+    100262: hull_32
+    100264: ladder_A
+    100266: ladder_A 1
+    100268: ladder_A_35
+    100270: ladder_A_72
+    100272: ladder_B
+    100274: ladder_B 1
+    100276: ladder_B_36
+    100278: ladder_B_73
+    100280: lamps
+    100282: lamps 1
+    100284: lamps_50
+    100286: lamps_87
+    100288: large_stair_1
+    100290: large_stair_1 1
+    100292: large_stair_1_41
+    100294: large_stair_1_78
+    100296: large_stair_2
+    100298: large_stair_2 1
+    100300: large_stair_2_42
+    100302: large_stair_2_80
+    100304: lod_high
+    100306: lod_lowend_high
+    100308: neptune_left
+    100310: neptune_left_53
+    100312: neptune_right
+    100314: neptune_right 1
+    100316: neptune_right_54
+    100318: neptune_right_90
+    100320: omit
+    100322: omit 1
+    100324: omit_51
+    100326: omit_88
+    100328: //RootNode
+    100330: polySurface608
+    100332: polySurface608 1
+    100334: polySurface608_25
+    100336: polySurface608_64
+    100338: rail_supportA
+    100340: rail_supportA 1
+    100342: rail_supportA_11
+    100344: rail_supportA_11 1
+    100346: rail_supportB
+    100348: rail_supportB 1
+    100350: rail_supportB_12
+    100352: rail_supportB_12 1
+    100354: railings
+    100356: railings 1
+    100358: railings_37
+    100360: railings_74
+    100362: setDressing
+    100364: setDressing 1
+    100366: small_stair_1
+    100368: small_stair_1 1
+    100370: small_stair_1_47
+    100372: small_stair_1_82
+    100374: small_stair_2
+    100376: small_stair_2 1
+    100378: small_stair_2_48
+    100380: small_stair_2_84
+    100382: static
+    100384: static 1
+    100386: static_13
+    100388: static_55
+    100390: steps
+    100392: steps 1
+    100394: steps 2
+    100396: steps 3
+    100398: steps 4
+    100400: steps1
+    100402: steps1_44
+    100404: steps2
+    100406: steps2_45
+    100408: steps3
+    100410: steps3_46
+    100412: steps_43
+    100414: steps_79
+    100416: steps_81
+    100418: steps_83
+    100420: steps_85
+    100422: transparent
+    100424: transparent 1
+    100426: trim
+    100428: trim 1
+    100430: trim_33
+    100432: trim_70
+    100434: windows
+    100436: windows 1
+    100438: windows_17
+    100440: windows_59
+    400000: anchors
+    400002: anchors 1
+    400004: anchors_14
+    400006: anchors_56
+    400008: angel
+    400010: angel 1
+    400012: angel_52
+    400014: angel_89
+    400016: bellTower
+    400018: bellTower 1
+    400020: bellTower_15
+    400022: bellTower_16
+    400024: bellTower_57
+    400026: bellTower_58
+    400028: cabin_door
+    400030: cabin_door 1
+    400032: cabin_door_40
+    400034: cabin_door_77
+    400036: cabinStatueBase
+    400038: cabinStatueBase 1
+    400040: cabinStatueBase_34
+    400042: cabinStatueBase_71
+    400044: cabinStatues
+    400046: cabinStatues 1
+    400048: cabinStatues_18
+    400050: cabinStatues_60
+    400052: crate
+    400054: crate 1
+    400056: crate 2
+    400058: crate 3
+    400060: crate_0
+    400062: crate_0 1
+    400064: crate_0 2
+    400066: crate_0 3
+    400068: crate_0_0
+    400070: crate_0_0 1
+    400072: crate_0_5
+    400074: crate_0_5 1
+    400076: crate_1
+    400078: crate_1 1
+    400080: crate_1 2
+    400082: crate_1_20
+    400084: crate_1_6
+    400086: crate_1_6 1
+    400088: crate_2
+    400090: crate_2 1
+    400092: crate_2 2
+    400094: crate_2_21
+    400096: crate_2_7
+    400098: crate_2_7 1
+    400100: crate_3
+    400102: crate_3 1
+    400104: crate_3 2
+    400106: crate_3_1
+    400108: crate_3_1 1
+    400110: crate_3_23
+    400112: crate_4
+    400114: crate_4 1
+    400116: crate_4 2
+    400118: crate_4 3
+    400120: crate_4_2
+    400122: crate_4_2 1
+    400124: crate_4_8
+    400126: crate_4_8 1
+    400128: crate_5
+    400130: crate_5 1
+    400132: crate_5 2
+    400134: crate_5 3
+    400136: crate_5_3
+    400138: crate_5_3 1
+    400140: crate_5_9
+    400142: crate_5_9 1
+    400144: crate_6
+    400146: crate_6 1
+    400148: crate_6 2
+    400150: crate_6 3
+    400152: crate_6_10
+    400154: crate_6_10 1
+    400156: crate_6_4
+    400158: crate_6_4 1
+    400160: crateBarrel_group1
+    400162: crateBarrel_group1 1
+    400164: crateBarrel_group1_19
+    400166: crateBarrel_group1_61
+    400168: crateBarrel_group2
+    400170: crateBarrel_group2 1
+    400172: crateBarrel_group2_22
+    400174: crateBarrel_group2_62
+    400176: custom
+    400178: custom 1
+    400180: custom_31
+    400182: custom_69
+    400184: deck
+    400186: deck 1
+    400188: deck_28
+    400190: deckFore
+    400192: deckFore 1
+    400194: deckFore_30
+    400196: deckFore_68
+    400198: deckMain
+    400200: deckMain 1
+    400202: deckMain_29
+    400204: deckMain_67
+    400206: designs
+    400208: designs 1
+    400210: designs_49
+    400212: designs_86
+    400214: geometry
+    400216: grates
+    400218: grates 1
+    400220: hand_railA
+    400222: hand_railA 1
+    400224: hand_railA_38
+    400226: hand_railA_75
+    400228: hand_railB
+    400230: hand_railB 1
+    400232: hand_railB_39
+    400234: hand_railB_76
+    400236: hatch14
+    400238: hatch14 1
+    400240: hatch14_26
+    400242: hatch14_65
+    400244: hatch3
+    400246: hatch3 1
+    400248: hatch3_24
+    400250: hatch3_63
+    400252: hatch4
+    400254: hatch4 1
+    400256: hatch4_27
+    400258: hatch4_66
+    400260: hull
+    400262: hull_32
+    400264: ladder_A
+    400266: ladder_A 1
+    400268: ladder_A_35
+    400270: ladder_A_72
+    400272: ladder_B
+    400274: ladder_B 1
+    400276: ladder_B_36
+    400278: ladder_B_73
+    400280: lamps
+    400282: lamps 1
+    400284: lamps_50
+    400286: lamps_87
+    400288: large_stair_1
+    400290: large_stair_1 1
+    400292: large_stair_1_41
+    400294: large_stair_1_78
+    400296: large_stair_2
+    400298: large_stair_2 1
+    400300: large_stair_2_42
+    400302: large_stair_2_80
+    400304: lod_high
+    400306: lod_lowend_high
+    400308: neptune_left
+    400310: neptune_left_53
+    400312: neptune_right
+    400314: neptune_right 1
+    400316: neptune_right_54
+    400318: neptune_right_90
+    400320: omit
+    400322: omit 1
+    400324: omit_51
+    400326: omit_88
+    400328: //RootNode
+    400330: polySurface608
+    400332: polySurface608 1
+    400334: polySurface608_25
+    400336: polySurface608_64
+    400338: rail_supportA
+    400340: rail_supportA 1
+    400342: rail_supportA_11
+    400344: rail_supportA_11 1
+    400346: rail_supportB
+    400348: rail_supportB 1
+    400350: rail_supportB_12
+    400352: rail_supportB_12 1
+    400354: railings
+    400356: railings 1
+    400358: railings_37
+    400360: railings_74
+    400362: setDressing
+    400364: setDressing 1
+    400366: small_stair_1
+    400368: small_stair_1 1
+    400370: small_stair_1_47
+    400372: small_stair_1_82
+    400374: small_stair_2
+    400376: small_stair_2 1
+    400378: small_stair_2_48
+    400380: small_stair_2_84
+    400382: static
+    400384: static 1
+    400386: static_13
+    400388: static_55
+    400390: steps
+    400392: steps 1
+    400394: steps 2
+    400396: steps 3
+    400398: steps 4
+    400400: steps1
+    400402: steps1_44
+    400404: steps2
+    400406: steps2_45
+    400408: steps3
+    400410: steps3_46
+    400412: steps_43
+    400414: steps_79
+    400416: steps_81
+    400418: steps_83
+    400420: steps_85
+    400422: transparent
+    400424: transparent 1
+    400426: trim
+    400428: trim 1
+    400430: trim_33
+    400432: trim_70
+    400434: windows
+    400436: windows 1
+    400438: windows_17
+    400440: windows_59
+    2300000: anchors_14
+    2300002: anchors_56
+    2300004: angel_52
+    2300006: angel_89
+    2300008: bellTower_15
+    2300010: bellTower_16
+    2300012: bellTower_57
+    2300014: bellTower_58
+    2300016: cabin_door_40
+    2300018: cabin_door_77
+    2300020: cabinStatueBase_34
+    2300022: cabinStatueBase_71
+    2300024: cabinStatues_18
+    2300026: cabinStatues_60
+    2300028: crate_0_0
+    2300030: crate_0_0 1
+    2300032: crate_0_5
+    2300034: crate_0_5 1
+    2300036: crate_1_20
+    2300038: crate_1_6
+    2300040: crate_1_6 1
+    2300042: crate_2_21
+    2300044: crate_2_7
+    2300046: crate_2_7 1
+    2300048: crate_3_1
+    2300050: crate_3_1 1
+    2300052: crate_3_23
+    2300054: crate_4_2
+    2300056: crate_4_2 1
+    2300058: crate_4_8
+    2300060: crate_4_8 1
+    2300062: crate_5_3
+    2300064: crate_5_3 1
+    2300066: crate_5_9
+    2300068: crate_5_9 1
+    2300070: crate_6_10
+    2300072: crate_6_10 1
+    2300074: crate_6_4
+    2300076: crate_6_4 1
+    2300078: crateBarrel_group1_19
+    2300080: crateBarrel_group1_61
+    2300082: crateBarrel_group2_22
+    2300084: crateBarrel_group2_62
+    2300086: custom_31
+    2300088: custom_69
+    2300090: deck_28
+    2300092: deckFore_30
+    2300094: deckFore_68
+    2300096: deckMain_29
+    2300098: deckMain_67
+    2300100: designs_49
+    2300102: designs_86
+    2300104: hand_railA_38
+    2300106: hand_railA_75
+    2300108: hand_railB_39
+    2300110: hand_railB_76
+    2300112: hatch14_26
+    2300114: hatch14_65
+    2300116: hatch3_24
+    2300118: hatch3_63
+    2300120: hatch4_27
+    2300122: hatch4_66
+    2300124: hull_32
+    2300126: ladder_A_35
+    2300128: ladder_A_72
+    2300130: ladder_B_36
+    2300132: ladder_B_73
+    2300134: lamps_50
+    2300136: lamps_87
+    2300138: large_stair_1_41
+    2300140: large_stair_1_78
+    2300142: large_stair_2_42
+    2300144: large_stair_2_80
+    2300146: neptune_left_53
+    2300148: neptune_right_54
+    2300150: neptune_right_90
+    2300152: omit_51
+    2300154: omit_88
+    2300156: polySurface608_25
+    2300158: polySurface608_64
+    2300160: rail_supportA_11
+    2300162: rail_supportA_11 1
+    2300164: rail_supportB_12
+    2300166: rail_supportB_12 1
+    2300168: railings_37
+    2300170: railings_74
+    2300172: small_stair_1_47
+    2300174: small_stair_1_82
+    2300176: small_stair_2_48
+    2300178: small_stair_2_84
+    2300180: static_13
+    2300182: static_55
+    2300184: steps1_44
+    2300186: steps2_45
+    2300188: steps3_46
+    2300190: steps_43
+    2300192: steps_79
+    2300194: steps_81
+    2300196: steps_83
+    2300198: steps_85
+    2300200: trim_33
+    2300202: trim_70
+    2300204: windows_17
+    2300206: windows_59
+    3300000: anchors_14
+    3300002: anchors_56
+    3300004: angel_52
+    3300006: angel_89
+    3300008: bellTower_15
+    3300010: bellTower_16
+    3300012: bellTower_57
+    3300014: bellTower_58
+    3300016: cabin_door_40
+    3300018: cabin_door_77
+    3300020: cabinStatueBase_34
+    3300022: cabinStatueBase_71
+    3300024: cabinStatues_18
+    3300026: cabinStatues_60
+    3300028: crate_0_0
+    3300030: crate_0_0 1
+    3300032: crate_0_5
+    3300034: crate_0_5 1
+    3300036: crate_1_20
+    3300038: crate_1_6
+    3300040: crate_1_6 1
+    3300042: crate_2_21
+    3300044: crate_2_7
+    3300046: crate_2_7 1
+    3300048: crate_3_1
+    3300050: crate_3_1 1
+    3300052: crate_3_23
+    3300054: crate_4_2
+    3300056: crate_4_2 1
+    3300058: crate_4_8
+    3300060: crate_4_8 1
+    3300062: crate_5_3
+    3300064: crate_5_3 1
+    3300066: crate_5_9
+    3300068: crate_5_9 1
+    3300070: crate_6_10
+    3300072: crate_6_10 1
+    3300074: crate_6_4
+    3300076: crate_6_4 1
+    3300078: crateBarrel_group1_19
+    3300080: crateBarrel_group1_61
+    3300082: crateBarrel_group2_22
+    3300084: crateBarrel_group2_62
+    3300086: custom_31
+    3300088: custom_69
+    3300090: deck_28
+    3300092: deckFore_30
+    3300094: deckFore_68
+    3300096: deckMain_29
+    3300098: deckMain_67
+    3300100: designs_49
+    3300102: designs_86
+    3300104: hand_railA_38
+    3300106: hand_railA_75
+    3300108: hand_railB_39
+    3300110: hand_railB_76
+    3300112: hatch14_26
+    3300114: hatch14_65
+    3300116: hatch3_24
+    3300118: hatch3_63
+    3300120: hatch4_27
+    3300122: hatch4_66
+    3300124: hull_32
+    3300126: ladder_A_35
+    3300128: ladder_A_72
+    3300130: ladder_B_36
+    3300132: ladder_B_73
+    3300134: lamps_50
+    3300136: lamps_87
+    3300138: large_stair_1_41
+    3300140: large_stair_1_78
+    3300142: large_stair_2_42
+    3300144: large_stair_2_80
+    3300146: neptune_left_53
+    3300148: neptune_right_54
+    3300150: neptune_right_90
+    3300152: omit_51
+    3300154: omit_88
+    3300156: polySurface608_25
+    3300158: polySurface608_64
+    3300160: rail_supportA_11
+    3300162: rail_supportA_11 1
+    3300164: rail_supportB_12
+    3300166: rail_supportB_12 1
+    3300168: railings_37
+    3300170: railings_74
+    3300172: small_stair_1_47
+    3300174: small_stair_1_82
+    3300176: small_stair_2_48
+    3300178: small_stair_2_84
+    3300180: static_13
+    3300182: static_55
+    3300184: steps1_44
+    3300186: steps2_45
+    3300188: steps3_46
+    3300190: steps_43
+    3300192: steps_79
+    3300194: steps_81
+    3300196: steps_83
+    3300198: steps_85
+    3300200: trim_33
+    3300202: trim_70
+    3300204: windows_17
+    3300206: windows_59
+    4300000: anchors_14
+    4300002: bellTower_15
+    4300004: bellTower_16
+    4300006: windows_17
+    4300008: cabinStatues_18
+    4300010: crate_0_0
+    4300012: crate_1_20
+    4300014: crate_2_21
+    4300016: crate_3_1
+    4300018: crate_4_2
+    4300020: crate_5_3
+    4300022: crate_6_4
+    4300024: crateBarrel_group1_19
+    4300026: crate_0_5
+    4300028: crate_1_6
+    4300030: crate_2_7
+    4300032: crate_3_23
+    4300034: crate_4_8
+    4300036: crate_5_9
+    4300038: crate_6_10
+    4300040: crateBarrel_group2_22
+    4300042: hatch3_24
+    4300044: polySurface608_25
+    4300046: hatch14_26
+    4300048: hatch4_27
+    4300050: deckMain_29
+    4300052: deckFore_30
+    4300054: deck_28
+    4300056: static_13
+    4300058: hull_32
+    4300060: trim_33
+    4300062: cabinStatueBase_34
+    4300064: ladder_A_35
+    4300066: ladder_B_36
+    4300068: rail_supportA_11
+    4300070: hand_railA_38
+    4300072: rail_supportB_12
+    4300074: hand_railB_39
+    4300076: railings_37
+    4300078: cabin_door_40
+    4300080: large_stair_1_41
+    4300082: steps_43
+    4300084: steps1_44
+    4300086: steps2_45
+    4300088: steps3_46
+    4300090: large_stair_2_42
+    4300092: small_stair_1_47
+    4300094: small_stair_2_48
+    4300096: custom_31
+    4300098: designs_49
+    4300100: lamps_50
+    4300102: angel_52
+    4300104: neptune_left_53
+    4300106: neptune_right_54
+    4300108: omit_51
+    4300110: anchors_56
+    4300112: bellTower_57
+    4300114: bellTower_58
+    4300116: windows_59
+    4300118: cabinStatues_60
+    4300120: crateBarrel_group1_61
+    4300122: crateBarrel_group2_62
+    4300124: hatch3_63
+    4300126: polySurface608_64
+    4300128: hatch14_65
+    4300130: hatch4_66
+    4300132: deckMain_67
+    4300134: deckFore_68
+    4300136: static_55
+    4300138: trim_70
+    4300140: cabinStatueBase_71
+    4300142: ladder_A_72
+    4300144: ladder_B_73
+    4300146: hand_railA_75
+    4300148: hand_railB_76
+    4300150: railings_74
+    4300152: cabin_door_77
+    4300154: steps_79
+    4300156: large_stair_1_78
+    4300158: steps_81
+    4300160: large_stair_2_80
+    4300162: steps_83
+    4300164: small_stair_1_82
+    4300166: steps_85
+    4300168: small_stair_2_84
+    4300170: custom_69
+    4300172: designs_86
+    4300174: lamps_87
+    4300176: angel_89
+    4300178: neptune_right_90
+    4300180: omit_88
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

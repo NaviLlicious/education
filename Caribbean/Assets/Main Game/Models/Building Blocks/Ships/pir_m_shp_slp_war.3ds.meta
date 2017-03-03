@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 37915c256b9157444bb102b76b58b6a6
+timeCreated: 1488516320
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabin
+    100002: cabin_19
+    100004: custom
+    100006: custom 1
+    100008: custom 2
+    100010: custom 3
+    100012: custom_14
+    100014: custom_22
+    100016: custom_28
+    100018: custom_6
+    100020: deck
+    100022: deck 1
+    100024: deck_2
+    100026: deck_21
+    100028: deck_right
+    100030: deck_right_3
+    100032: geometry
+    100034: hullA
+    100036: hullA 1
+    100038: hullA 2
+    100040: hullA 3
+    100042: hullA_10
+    100044: hullA_17
+    100046: hullA_24
+    100048: hullA_29
+    100050: hullA_b2
+    100052: hullA_b2_11
+    100054: hullB
+    100056: hullB 1
+    100058: hullB 2
+    100060: hullB_12
+    100062: hullB_18
+    100064: hullB_25
+    100066: lod_high
+    100068: lod_low
+    100070: lod_medium
+    100072: lod_superlow
+    100074: //RootNode
+    100076: static
+    100078: static 1
+    100080: static 2
+    100082: static 3
+    100084: static_0
+    100086: static_26
+    100088: static_27
+    100090: storage_left
+    100092: storage_left_5
+    100094: storage_right
+    100096: storage_right_4
+    100098: stripeA
+    100100: stripeA 1
+    100102: stripeA 2
+    100104: stripeA_15
+    100106: stripeA_23
+    100108: stripeA_7
+    100110: stripeB
+    100112: stripeB 1
+    100114: stripeB_16
+    100116: stripeB_8
+    100118: transparent
+    100120: transparent_13
+    100122: windowFrames
+    100124: windowFrames_9
+    100126: windows
+    100128: windows 1
+    100130: windows_1
+    100132: windows_20
+    400000: cabin
+    400002: cabin_19
+    400004: custom
+    400006: custom 1
+    400008: custom 2
+    400010: custom 3
+    400012: custom_14
+    400014: custom_22
+    400016: custom_28
+    400018: custom_6
+    400020: deck
+    400022: deck 1
+    400024: deck_2
+    400026: deck_21
+    400028: deck_right
+    400030: deck_right_3
+    400032: geometry
+    400034: hullA
+    400036: hullA 1
+    400038: hullA 2
+    400040: hullA 3
+    400042: hullA_10
+    400044: hullA_17
+    400046: hullA_24
+    400048: hullA_29
+    400050: hullA_b2
+    400052: hullA_b2_11
+    400054: hullB
+    400056: hullB 1
+    400058: hullB 2
+    400060: hullB_12
+    400062: hullB_18
+    400064: hullB_25
+    400066: lod_high
+    400068: lod_low
+    400070: lod_medium
+    400072: lod_superlow
+    400074: //RootNode
+    400076: static
+    400078: static 1
+    400080: static 2
+    400082: static 3
+    400084: static_0
+    400086: static_26
+    400088: static_27
+    400090: storage_left
+    400092: storage_left_5
+    400094: storage_right
+    400096: storage_right_4
+    400098: stripeA
+    400100: stripeA 1
+    400102: stripeA 2
+    400104: stripeA_15
+    400106: stripeA_23
+    400108: stripeA_7
+    400110: stripeB
+    400112: stripeB 1
+    400114: stripeB_16
+    400116: stripeB_8
+    400118: transparent
+    400120: transparent_13
+    400122: windowFrames
+    400124: windowFrames_9
+    400126: windows
+    400128: windows 1
+    400130: windows_1
+    400132: windows_20
+    2300000: cabin_19
+    2300002: custom_14
+    2300004: custom_22
+    2300006: custom_28
+    2300008: custom_6
+    2300010: deck_2
+    2300012: deck_21
+    2300014: deck_right_3
+    2300016: hullA_10
+    2300018: hullA_17
+    2300020: hullA_24
+    2300022: hullA_29
+    2300024: hullA_b2_11
+    2300026: hullB_12
+    2300028: hullB_18
+    2300030: hullB_25
+    2300032: static_0
+    2300034: static_26
+    2300036: static_27
+    2300038: storage_left_5
+    2300040: storage_right_4
+    2300042: stripeA_15
+    2300044: stripeA_23
+    2300046: stripeA_7
+    2300048: stripeB_16
+    2300050: stripeB_8
+    2300052: transparent_13
+    2300054: windowFrames_9
+    2300056: windows_1
+    2300058: windows_20
+    3300000: cabin_19
+    3300002: custom_14
+    3300004: custom_22
+    3300006: custom_28
+    3300008: custom_6
+    3300010: deck_2
+    3300012: deck_21
+    3300014: deck_right_3
+    3300016: hullA_10
+    3300018: hullA_17
+    3300020: hullA_24
+    3300022: hullA_29
+    3300024: hullA_b2_11
+    3300026: hullB_12
+    3300028: hullB_18
+    3300030: hullB_25
+    3300032: static_0
+    3300034: static_26
+    3300036: static_27
+    3300038: storage_left_5
+    3300040: storage_right_4
+    3300042: stripeA_15
+    3300044: stripeA_23
+    3300046: stripeA_7
+    3300048: stripeB_16
+    3300050: stripeB_8
+    3300052: transparent_13
+    3300054: windowFrames_9
+    3300056: windows_1
+    3300058: windows_20
+    4300000: windows_1
+    4300002: deck_right_3
+    4300004: deck_2
+    4300006: storage_right_4
+    4300008: storage_left_5
+    4300010: static_0
+    4300012: stripeA_7
+    4300014: windowFrames_9
+    4300016: stripeB_8
+    4300018: hullA_b2_11
+    4300020: hullA_10
+    4300022: hullB_12
+    4300024: custom_6
+    4300026: transparent_13
+    4300028: stripeA_15
+    4300030: stripeB_16
+    4300032: hullA_17
+    4300034: hullB_18
+    4300036: custom_14
+    4300038: windows_20
+    4300040: cabin_19
+    4300042: deck_21
+    4300044: stripeA_23
+    4300046: hullA_24
+    4300048: hullB_25
+    4300050: custom_22
+    4300052: static_26
+    4300054: static_27
+    4300056: hullA_29
+    4300058: custom_28
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

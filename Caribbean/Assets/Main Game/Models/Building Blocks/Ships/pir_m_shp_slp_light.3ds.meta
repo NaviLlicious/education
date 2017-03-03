@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 0452ea0b397b0ca4c8ae9cfc0bbb9b62
+timeCreated: 1488516271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: custom
+    100002: custom 1
+    100004: custom 2
+    100006: custom 3
+    100008: custom_13
+    100010: custom_18
+    100012: custom_2
+    100014: custom_8
+    100016: deck
+    100018: deck 1
+    100020: deck_0
+    100022: deck_12
+    100024: deck_main
+    100026: deck_main_1
+    100028: geometry
+    100030: hull
+    100032: hull 1
+    100034: hull_10
+    100036: hull_15
+    100038: hullA
+    100040: hullA 1
+    100042: hullA_19
+    100044: hullA_4
+    100046: lod_high
+    100048: lod_low
+    100050: lod_superlow
+    100052: low_medium
+    100054: //RootNode
+    100056: rudder
+    100058: rudder 1
+    100060: rudder_16
+    100062: rudder_5
+    100064: static
+    100066: static 1
+    100068: static 2
+    100070: static 3
+    100072: static_17
+    100074: static_7
+    100076: stripeA
+    100078: stripeA 1
+    100080: stripeA 2
+    100082: stripeA_14
+    100084: stripeA_3
+    100086: stripeA_9
+    100088: transparent
+    100090: transparent 1
+    100092: transparent_11
+    100094: transparent_6
+    400000: custom
+    400002: custom 1
+    400004: custom 2
+    400006: custom 3
+    400008: custom_13
+    400010: custom_18
+    400012: custom_2
+    400014: custom_8
+    400016: deck
+    400018: deck 1
+    400020: deck_0
+    400022: deck_12
+    400024: deck_main
+    400026: deck_main_1
+    400028: geometry
+    400030: hull
+    400032: hull 1
+    400034: hull_10
+    400036: hull_15
+    400038: hullA
+    400040: hullA 1
+    400042: hullA_19
+    400044: hullA_4
+    400046: lod_high
+    400048: lod_low
+    400050: lod_superlow
+    400052: low_medium
+    400054: //RootNode
+    400056: rudder
+    400058: rudder 1
+    400060: rudder_16
+    400062: rudder_5
+    400064: static
+    400066: static 1
+    400068: static 2
+    400070: static 3
+    400072: static_17
+    400074: static_7
+    400076: stripeA
+    400078: stripeA 1
+    400080: stripeA 2
+    400082: stripeA_14
+    400084: stripeA_3
+    400086: stripeA_9
+    400088: transparent
+    400090: transparent 1
+    400092: transparent_11
+    400094: transparent_6
+    2300000: custom_13
+    2300002: custom_18
+    2300004: custom_2
+    2300006: custom_8
+    2300008: deck_0
+    2300010: deck_12
+    2300012: deck_main_1
+    2300014: hull_10
+    2300016: hull_15
+    2300018: hullA_19
+    2300020: hullA_4
+    2300022: rudder_16
+    2300024: rudder_5
+    2300026: static_17
+    2300028: static_7
+    2300030: stripeA_14
+    2300032: stripeA_3
+    2300034: stripeA_9
+    2300036: transparent_11
+    2300038: transparent_6
+    3300000: custom_13
+    3300002: custom_18
+    3300004: custom_2
+    3300006: custom_8
+    3300008: deck_0
+    3300010: deck_12
+    3300012: deck_main_1
+    3300014: hull_10
+    3300016: hull_15
+    3300018: hullA_19
+    3300020: hullA_4
+    3300022: rudder_16
+    3300024: rudder_5
+    3300026: static_17
+    3300028: static_7
+    3300030: stripeA_14
+    3300032: stripeA_3
+    3300034: stripeA_9
+    3300036: transparent_11
+    3300038: transparent_6
+    4300000: deck_main_1
+    4300002: deck_0
+    4300004: stripeA_3
+    4300006: rudder_5
+    4300008: hullA_4
+    4300010: custom_2
+    4300012: transparent_6
+    4300014: static_7
+    4300016: stripeA_9
+    4300018: hull_10
+    4300020: custom_8
+    4300022: transparent_11
+    4300024: deck_12
+    4300026: stripeA_14
+    4300028: rudder_16
+    4300030: hull_15
+    4300032: custom_13
+    4300034: static_17
+    4300036: hullA_19
+    4300038: custom_18
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

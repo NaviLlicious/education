@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 36462e40a2108d7468219948632ddac4
+timeCreated: 1488516271
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: custom
+    100002: custom 1
+    100004: custom 2
+    100006: custom_14
+    100008: custom_2
+    100010: custom_20
+    100012: deck
+    100014: deck 1
+    100016: deck 2
+    100018: deck_0
+    100020: deck_0_9
+    100022: deck_18
+    100024: deck_24
+    100026: deck_8
+    100028: geometry
+    100030: hullA
+    100032: hullA 1
+    100034: hullA 2
+    100036: hullA_16
+    100038: hullA_22
+    100040: hullA_6
+    100042: lod_high
+    100044: lod_low
+    100046: lod_medium
+    100048: mossA
+    100050: mossA 1
+    100052: mossA_1
+    100054: mossA_13
+    100056: mossB
+    100058: mossB 1
+    100060: mossB_0
+    100062: mossB_12
+    100064: //RootNode
+    100066: rail_High_1
+    100068: rail_High_1_5
+    100070: rail_High_2
+    100072: rail_High_2_4
+    100074: stairs
+    100076: stairs 1
+    100078: stairs 2
+    100080: stairs_19
+    100082: stairs_25
+    100084: static
+    100086: static 1
+    100088: static 2
+    100090: static_17
+    100092: static_23
+    100094: static_7
+    100096: stripeA
+    100098: stripeA 1
+    100100: stripeA 2
+    100102: stripeA_15
+    100104: stripeA_21
+    100106: stripeA_3
+    100108: TallStairs0
+    100110: TallStairs0_11
+    100112: TallStairs1
+    100114: TallStairs1_10
+    100116: transparent
+    100118: transparent 1
+    400000: custom
+    400002: custom 1
+    400004: custom 2
+    400006: custom_14
+    400008: custom_2
+    400010: custom_20
+    400012: deck
+    400014: deck 1
+    400016: deck 2
+    400018: deck_0
+    400020: deck_0_9
+    400022: deck_18
+    400024: deck_24
+    400026: deck_8
+    400028: geometry
+    400030: hullA
+    400032: hullA 1
+    400034: hullA 2
+    400036: hullA_16
+    400038: hullA_22
+    400040: hullA_6
+    400042: lod_high
+    400044: lod_low
+    400046: lod_medium
+    400048: mossA
+    400050: mossA 1
+    400052: mossA_1
+    400054: mossA_13
+    400056: mossB
+    400058: mossB 1
+    400060: mossB_0
+    400062: mossB_12
+    400064: //RootNode
+    400066: rail_High_1
+    400068: rail_High_1_5
+    400070: rail_High_2
+    400072: rail_High_2_4
+    400074: stairs
+    400076: stairs 1
+    400078: stairs 2
+    400080: stairs_19
+    400082: stairs_25
+    400084: static
+    400086: static 1
+    400088: static 2
+    400090: static_17
+    400092: static_23
+    400094: static_7
+    400096: stripeA
+    400098: stripeA 1
+    400100: stripeA 2
+    400102: stripeA_15
+    400104: stripeA_21
+    400106: stripeA_3
+    400108: TallStairs0
+    400110: TallStairs0_11
+    400112: TallStairs1
+    400114: TallStairs1_10
+    400116: transparent
+    400118: transparent 1
+    2300000: custom_14
+    2300002: custom_2
+    2300004: custom_20
+    2300006: deck_0_9
+    2300008: deck_18
+    2300010: deck_24
+    2300012: deck_8
+    2300014: hullA_16
+    2300016: hullA_22
+    2300018: hullA_6
+    2300020: mossA_1
+    2300022: mossA_13
+    2300024: mossB_0
+    2300026: mossB_12
+    2300028: rail_High_1_5
+    2300030: rail_High_2_4
+    2300032: stairs_19
+    2300034: stairs_25
+    2300036: static_17
+    2300038: static_23
+    2300040: static_7
+    2300042: stripeA_15
+    2300044: stripeA_21
+    2300046: stripeA_3
+    2300048: TallStairs0_11
+    2300050: TallStairs1_10
+    3300000: custom_14
+    3300002: custom_2
+    3300004: custom_20
+    3300006: deck_0_9
+    3300008: deck_18
+    3300010: deck_24
+    3300012: deck_8
+    3300014: hullA_16
+    3300016: hullA_22
+    3300018: hullA_6
+    3300020: mossA_1
+    3300022: mossA_13
+    3300024: mossB_0
+    3300026: mossB_12
+    3300028: rail_High_1_5
+    3300030: rail_High_2_4
+    3300032: stairs_19
+    3300034: stairs_25
+    3300036: static_17
+    3300038: static_23
+    3300040: static_7
+    3300042: stripeA_15
+    3300044: stripeA_21
+    3300046: stripeA_3
+    3300048: TallStairs0_11
+    3300050: TallStairs1_10
+    4300000: mossB_0
+    4300002: mossA_1
+    4300004: rail_High_2_4
+    4300006: rail_High_1_5
+    4300008: stripeA_3
+    4300010: hullA_6
+    4300012: custom_2
+    4300014: deck_0_9
+    4300016: deck_8
+    4300018: TallStairs1_10
+    4300020: TallStairs0_11
+    4300022: static_7
+    4300024: mossB_12
+    4300026: mossA_13
+    4300028: stripeA_15
+    4300030: hullA_16
+    4300032: custom_14
+    4300034: deck_18
+    4300036: stairs_19
+    4300038: static_17
+    4300040: stripeA_21
+    4300042: hullA_22
+    4300044: custom_20
+    4300046: deck_24
+    4300048: stairs_25
+    4300050: static_23
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

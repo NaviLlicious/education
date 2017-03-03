@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 3cd0096cf6d6e90419bc6e1f312c8c24
+timeCreated: 1488516011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aft_cabin
+    100002: aft_cabin 1
+    100004: aft_cabin 2
+    100006: aft_cabin_12
+    100008: aft_cabin_31
+    100010: aft_cabin_38
+    100012: awning
+    100014: awning 1
+    100016: awning_16
+    100018: awning_35
+    100020: cage
+    100022: cage_11
+    100024: custom
+    100026: custom 1
+    100028: custom 2
+    100030: custom 3
+    100032: custom_1
+    100034: custom_24
+    100036: custom_36
+    100038: custom_41
+    100040: decks_stairs
+    100042: decks_stairs 1
+    100044: decks_stairs 2
+    100046: decks_stairs_15
+    100048: decks_stairs_34
+    100050: decks_stairs_40
+    100052: fore
+    100054: fore 1
+    100056: fore 2
+    100058: fore_14
+    100060: fore_33
+    100062: fore_39
+    100064: geometry
+    100066: grates
+    100068: grates 1
+    100070: grates_28
+    100072: grates_9
+    100074: hullA
+    100076: hullA 1
+    100078: hullA_25
+    100080: hullA_4
+    100082: hullB
+    100084: hullB 1
+    100086: hullB 2
+    100088: hullB_26
+    100090: hullB_37
+    100092: hullB_5
+    100094: lod_high
+    100096: lod_low
+    100098: lod_medium
+    100100: lod_superlow
+    100102: main_railing
+    100104: main_railing_29
+    100106: orniment
+    100108: orniment_21
+    100110: //RootNode
+    100112: posts
+    100114: posts_6
+    100116: posts_left
+    100118: posts_left_8
+    100120: posts_right
+    100122: posts_right_7
+    100124: railing_0
+    100126: railing_0_20
+    100128: railing_1
+    100130: railing_1_17
+    100132: rear_skeletons
+    100134: rear_skeletons_30
+    100136: rigging_0
+    100138: rigging_0_18
+    100140: rigging_1
+    100142: rigging_1_19
+    100144: skel_left
+    100146: skel_left_23
+    100148: skel_right
+    100150: skel_right_22
+    100152: skeleton_ram
+    100154: skeleton_ram_10
+    100156: stainedGlass
+    100158: stainedGlass 1
+    100160: stainedGlass 2
+    100162: stainedGlass 3
+    100164: stainedGlass_0
+    100166: stainedGlass_0 1
+    100168: stainedGlass_13
+    100170: stainedGlass_32
+    100172: static
+    100174: static 1
+    100176: static 2
+    100178: static 3
+    100180: static_27
+    100182: static_42
+    100184: stripeA
+    100186: stripeA_2
+    100188: stripeB
+    100190: stripeB_3
+    100192: transparent
+    400000: aft_cabin
+    400002: aft_cabin 1
+    400004: aft_cabin 2
+    400006: aft_cabin_12
+    400008: aft_cabin_31
+    400010: aft_cabin_38
+    400012: awning
+    400014: awning 1
+    400016: awning_16
+    400018: awning_35
+    400020: cage
+    400022: cage_11
+    400024: custom
+    400026: custom 1
+    400028: custom 2
+    400030: custom 3
+    400032: custom_1
+    400034: custom_24
+    400036: custom_36
+    400038: custom_41
+    400040: decks_stairs
+    400042: decks_stairs 1
+    400044: decks_stairs 2
+    400046: decks_stairs_15
+    400048: decks_stairs_34
+    400050: decks_stairs_40
+    400052: fore
+    400054: fore 1
+    400056: fore 2
+    400058: fore_14
+    400060: fore_33
+    400062: fore_39
+    400064: geometry
+    400066: grates
+    400068: grates 1
+    400070: grates_28
+    400072: grates_9
+    400074: hullA
+    400076: hullA 1
+    400078: hullA_25
+    400080: hullA_4
+    400082: hullB
+    400084: hullB 1
+    400086: hullB 2
+    400088: hullB_26
+    400090: hullB_37
+    400092: hullB_5
+    400094: lod_high
+    400096: lod_low
+    400098: lod_medium
+    400100: lod_superlow
+    400102: main_railing
+    400104: main_railing_29
+    400106: orniment
+    400108: orniment_21
+    400110: //RootNode
+    400112: posts
+    400114: posts_6
+    400116: posts_left
+    400118: posts_left_8
+    400120: posts_right
+    400122: posts_right_7
+    400124: railing_0
+    400126: railing_0_20
+    400128: railing_1
+    400130: railing_1_17
+    400132: rear_skeletons
+    400134: rear_skeletons_30
+    400136: rigging_0
+    400138: rigging_0_18
+    400140: rigging_1
+    400142: rigging_1_19
+    400144: skel_left
+    400146: skel_left_23
+    400148: skel_right
+    400150: skel_right_22
+    400152: skeleton_ram
+    400154: skeleton_ram_10
+    400156: stainedGlass
+    400158: stainedGlass 1
+    400160: stainedGlass 2
+    400162: stainedGlass 3
+    400164: stainedGlass_0
+    400166: stainedGlass_0 1
+    400168: stainedGlass_13
+    400170: stainedGlass_32
+    400172: static
+    400174: static 1
+    400176: static 2
+    400178: static 3
+    400180: static_27
+    400182: static_42
+    400184: stripeA
+    400186: stripeA_2
+    400188: stripeB
+    400190: stripeB_3
+    400192: transparent
+    2300000: aft_cabin_12
+    2300002: aft_cabin_31
+    2300004: aft_cabin_38
+    2300006: awning_16
+    2300008: awning_35
+    2300010: cage_11
+    2300012: custom_1
+    2300014: custom_24
+    2300016: custom_36
+    2300018: custom_41
+    2300020: decks_stairs_15
+    2300022: decks_stairs_34
+    2300024: decks_stairs_40
+    2300026: fore_14
+    2300028: fore_33
+    2300030: fore_39
+    2300032: grates_28
+    2300034: grates_9
+    2300036: hullA_25
+    2300038: hullA_4
+    2300040: hullB_26
+    2300042: hullB_37
+    2300044: hullB_5
+    2300046: main_railing_29
+    2300048: orniment_21
+    2300050: posts_6
+    2300052: posts_left_8
+    2300054: posts_right_7
+    2300056: railing_0_20
+    2300058: railing_1_17
+    2300060: rear_skeletons_30
+    2300062: rigging_0_18
+    2300064: rigging_1_19
+    2300066: skel_left_23
+    2300068: skel_right_22
+    2300070: skeleton_ram_10
+    2300072: stainedGlass_0
+    2300074: stainedGlass_0 1
+    2300076: stainedGlass_13
+    2300078: stainedGlass_32
+    2300080: static_27
+    2300082: static_42
+    2300084: stripeA_2
+    2300086: stripeB_3
+    3300000: aft_cabin_12
+    3300002: aft_cabin_31
+    3300004: aft_cabin_38
+    3300006: awning_16
+    3300008: awning_35
+    3300010: cage_11
+    3300012: custom_1
+    3300014: custom_24
+    3300016: custom_36
+    3300018: custom_41
+    3300020: decks_stairs_15
+    3300022: decks_stairs_34
+    3300024: decks_stairs_40
+    3300026: fore_14
+    3300028: fore_33
+    3300030: fore_39
+    3300032: grates_28
+    3300034: grates_9
+    3300036: hullA_25
+    3300038: hullA_4
+    3300040: hullB_26
+    3300042: hullB_37
+    3300044: hullB_5
+    3300046: main_railing_29
+    3300048: orniment_21
+    3300050: posts_6
+    3300052: posts_left_8
+    3300054: posts_right_7
+    3300056: railing_0_20
+    3300058: railing_1_17
+    3300060: rear_skeletons_30
+    3300062: rigging_0_18
+    3300064: rigging_1_19
+    3300066: skel_left_23
+    3300068: skel_right_22
+    3300070: skeleton_ram_10
+    3300072: stainedGlass_0
+    3300074: stainedGlass_0 1
+    3300076: stainedGlass_13
+    3300078: stainedGlass_32
+    3300080: static_27
+    3300082: static_42
+    3300084: stripeA_2
+    3300086: stripeB_3
+    4300000: stripeA_2
+    4300002: stripeB_3
+    4300004: hullA_4
+    4300006: hullB_5
+    4300008: custom_1
+    4300010: posts_right_7
+    4300012: posts_left_8
+    4300014: posts_6
+    4300016: grates_9
+    4300018: skeleton_ram_10
+    4300020: cage_11
+    4300022: stainedGlass_13
+    4300024: aft_cabin_12
+    4300026: fore_14
+    4300028: decks_stairs_15
+    4300030: awning_16
+    4300032: railing_1_17
+    4300034: rigging_0_18
+    4300036: rigging_1_19
+    4300038: railing_0_20
+    4300040: skel_right_22
+    4300042: skel_left_23
+    4300044: orniment_21
+    4300046: hullA_25
+    4300048: hullB_26
+    4300050: custom_24
+    4300052: grates_28
+    4300054: main_railing_29
+    4300056: rear_skeletons_30
+    4300058: stainedGlass_32
+    4300060: aft_cabin_31
+    4300062: fore_33
+    4300064: decks_stairs_34
+    4300066: awning_35
+    4300068: static_27
+    4300070: hullB_37
+    4300072: custom_36
+    4300074: stainedGlass_0
+    4300076: aft_cabin_38
+    4300078: fore_39
+    4300080: decks_stairs_40
+    4300082: custom_41
+    4300084: static_42
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

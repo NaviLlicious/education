@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: f34cde281657cf741afbe455103abca4
+timeCreated: 1488516272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom_hull
+    100002: bottom_hull_1
+    100004: bottom_hull_1 1
+    100006: bottom_hull_1 2
+    100008: bottom_hull_1_22
+    100010: bottom_hull_1_3
+    100012: bottom_hull_1_3 1
+    100014: bottom_hull_2
+    100016: bottom_hull_61
+    100018: cabin_stripeA_0
+    100020: cabin_stripeA_0 1
+    100022: cabin_stripeA_0 2
+    100024: cabin_stripeA_0_26
+    100026: cabin_stripeA_0_44
+    100028: cabin_stripeA_0_55
+    100030: custom
+    100032: custom 1
+    100034: custom 2
+    100036: custom 3
+    100038: deck
+    100040: deck 1
+    100042: deck 2
+    100044: deck_11
+    100046: deck_11_10
+    100048: deck_13
+    100050: deck_13_8
+    100052: deck_15
+    100054: deck_15_9
+    100056: deck_17
+    100058: deck_17 1
+    100060: deck_17_34
+    100062: deck_17_48
+    100064: deck_19
+    100066: deck_19 1
+    100068: deck_19_35
+    100070: deck_19_49
+    100072: deck_2
+    100074: deck_2 1
+    100076: deck_2_2
+    100078: deck_2_2 1
+    100080: deck_3
+    100082: deck_3 1
+    100084: deck_33
+    100086: deck_3_36
+    100088: deck_3_50
+    100090: deck_4
+    100092: deck_4 1
+    100094: deck_4_0
+    100096: deck_4_0 1
+    100098: deck_58
+    100100: deck_6
+    100102: deck_8
+    100104: deck_8_7
+    100106: deck_9
+    100108: deck_9 1
+    100110: deck_9_1
+    100112: deck_9_1 1
+    100114: geometry
+    100116: hull_panels
+    100118: hull_panels_59
+    100120: hullA
+    100122: hullA 1
+    100124: hullA 2
+    100126: hullA_19
+    100128: hullA_39
+    100130: hullA_51
+    100132: hullB
+    100134: hullB 1
+    100136: hullB 2
+    100138: hullB_20
+    100140: hullB_40
+    100142: hullB_52
+    100144: lod_high
+    100146: lod_low
+    100148: lod_medium
+    100150: lod_superlow
+    100152: pattern
+    100154: pattern_32
+    100156: patternA
+    100158: patternA 1
+    100160: patternA_47
+    100162: patternA_57
+    100164: //RootNode
+    100166: props
+    100168: props_11
+    100170: railings
+    100172: railings_5
+    100174: ribbing
+    100176: ribbing 1
+    100178: ribbing_24
+    100180: ribbing_43
+    100182: rudder1
+    100184: rudder1 1
+    100186: rudder1 2
+    100188: rudder1_21
+    100190: rudder1_41
+    100192: rudder1_53
+    100194: static
+    100196: static 1
+    100198: static 2
+    100200: static 3
+    100202: static_steps_steps
+    100204: static_steps_steps_15
+    100206: steps
+    100208: steps 1
+    100210: steps 2
+    100212: steps10
+    100214: steps10_16
+    100216: steps2
+    100218: steps2_12
+    100220: steps6
+    100222: steps6_13
+    100224: steps8
+    100226: steps8_17
+    100228: steps_14
+    100230: steps_37
+    100232: stripe_a
+    100234: stripe_a_60
+    100236: stripe_c3
+    100238: stripe_c3_31
+    100240: stripeA
+    100242: stripeA 1
+    100244: stripeA 2
+    100246: stripeA_1
+    100248: stripeA_1_25
+    100250: stripeA_23
+    100252: stripeA_3
+    100254: stripeA_3_27
+    100256: stripeA_42
+    100258: stripeA_54
+    100260: stripeB
+    100262: stripeB 1
+    100264: stripeB_29
+    100266: stripeB_45
+    100268: stripeC
+    100270: stripeC 1
+    100272: stripeC 2
+    100274: stripeC_30
+    100276: stripeC_46
+    100278: stripeC_56
+    100280: transparent
+    100282: transparent_4
+    100284: windows
+    100286: windows 1
+    100288: windows 2
+    100290: windows_18
+    100292: windows_28
+    100294: windows_38
+    400000: bottom_hull
+    400002: bottom_hull_1
+    400004: bottom_hull_1 1
+    400006: bottom_hull_1 2
+    400008: bottom_hull_1_22
+    400010: bottom_hull_1_3
+    400012: bottom_hull_1_3 1
+    400014: bottom_hull_2
+    400016: bottom_hull_61
+    400018: cabin_stripeA_0
+    400020: cabin_stripeA_0 1
+    400022: cabin_stripeA_0 2
+    400024: cabin_stripeA_0_26
+    400026: cabin_stripeA_0_44
+    400028: cabin_stripeA_0_55
+    400030: custom
+    400032: custom 1
+    400034: custom 2
+    400036: custom 3
+    400038: deck
+    400040: deck 1
+    400042: deck 2
+    400044: deck_11
+    400046: deck_11_10
+    400048: deck_13
+    400050: deck_13_8
+    400052: deck_15
+    400054: deck_15_9
+    400056: deck_17
+    400058: deck_17 1
+    400060: deck_17_34
+    400062: deck_17_48
+    400064: deck_19
+    400066: deck_19 1
+    400068: deck_19_35
+    400070: deck_19_49
+    400072: deck_2
+    400074: deck_2 1
+    400076: deck_2_2
+    400078: deck_2_2 1
+    400080: deck_3
+    400082: deck_3 1
+    400084: deck_33
+    400086: deck_3_36
+    400088: deck_3_50
+    400090: deck_4
+    400092: deck_4 1
+    400094: deck_4_0
+    400096: deck_4_0 1
+    400098: deck_58
+    400100: deck_6
+    400102: deck_8
+    400104: deck_8_7
+    400106: deck_9
+    400108: deck_9 1
+    400110: deck_9_1
+    400112: deck_9_1 1
+    400114: geometry
+    400116: hull_panels
+    400118: hull_panels_59
+    400120: hullA
+    400122: hullA 1
+    400124: hullA 2
+    400126: hullA_19
+    400128: hullA_39
+    400130: hullA_51
+    400132: hullB
+    400134: hullB 1
+    400136: hullB 2
+    400138: hullB_20
+    400140: hullB_40
+    400142: hullB_52
+    400144: lod_high
+    400146: lod_low
+    400148: lod_medium
+    400150: lod_superlow
+    400152: pattern
+    400154: pattern_32
+    400156: patternA
+    400158: patternA 1
+    400160: patternA_47
+    400162: patternA_57
+    400164: //RootNode
+    400166: props
+    400168: props_11
+    400170: railings
+    400172: railings_5
+    400174: ribbing
+    400176: ribbing 1
+    400178: ribbing_24
+    400180: ribbing_43
+    400182: rudder1
+    400184: rudder1 1
+    400186: rudder1 2
+    400188: rudder1_21
+    400190: rudder1_41
+    400192: rudder1_53
+    400194: static
+    400196: static 1
+    400198: static 2
+    400200: static 3
+    400202: static_steps_steps
+    400204: static_steps_steps_15
+    400206: steps
+    400208: steps 1
+    400210: steps 2
+    400212: steps10
+    400214: steps10_16
+    400216: steps2
+    400218: steps2_12
+    400220: steps6
+    400222: steps6_13
+    400224: steps8
+    400226: steps8_17
+    400228: steps_14
+    400230: steps_37
+    400232: stripe_a
+    400234: stripe_a_60
+    400236: stripe_c3
+    400238: stripe_c3_31
+    400240: stripeA
+    400242: stripeA 1
+    400244: stripeA 2
+    400246: stripeA_1
+    400248: stripeA_1_25
+    400250: stripeA_23
+    400252: stripeA_3
+    400254: stripeA_3_27
+    400256: stripeA_42
+    400258: stripeA_54
+    400260: stripeB
+    400262: stripeB 1
+    400264: stripeB_29
+    400266: stripeB_45
+    400268: stripeC
+    400270: stripeC 1
+    400272: stripeC 2
+    400274: stripeC_30
+    400276: stripeC_46
+    400278: stripeC_56
+    400280: transparent
+    400282: transparent_4
+    400284: windows
+    400286: windows 1
+    400288: windows 2
+    400290: windows_18
+    400292: windows_28
+    400294: windows_38
+    2300000: bottom_hull_1_22
+    2300002: bottom_hull_1_3
+    2300004: bottom_hull_1_3 1
+    2300006: bottom_hull_61
+    2300008: cabin_stripeA_0_26
+    2300010: cabin_stripeA_0_44
+    2300012: cabin_stripeA_0_55
+    2300014: deck_11_10
+    2300016: deck_13_8
+    2300018: deck_15_9
+    2300020: deck_17_34
+    2300022: deck_17_48
+    2300024: deck_19_35
+    2300026: deck_19_49
+    2300028: deck_2_2
+    2300030: deck_2_2 1
+    2300032: deck_33
+    2300034: deck_3_36
+    2300036: deck_3_50
+    2300038: deck_4_0
+    2300040: deck_4_0 1
+    2300042: deck_58
+    2300044: deck_6
+    2300046: deck_8_7
+    2300048: deck_9_1
+    2300050: deck_9_1 1
+    2300052: hull_panels_59
+    2300054: hullA_19
+    2300056: hullA_39
+    2300058: hullA_51
+    2300060: hullB_20
+    2300062: hullB_40
+    2300064: hullB_52
+    2300066: pattern_32
+    2300068: patternA_47
+    2300070: patternA_57
+    2300072: props_11
+    2300074: railings_5
+    2300076: ribbing_24
+    2300078: ribbing_43
+    2300080: rudder1_21
+    2300082: rudder1_41
+    2300084: rudder1_53
+    2300086: static_steps_steps_15
+    2300088: steps10_16
+    2300090: steps2_12
+    2300092: steps6_13
+    2300094: steps8_17
+    2300096: steps_14
+    2300098: steps_37
+    2300100: stripe_a_60
+    2300102: stripe_c3_31
+    2300104: stripeA_1_25
+    2300106: stripeA_23
+    2300108: stripeA_3_27
+    2300110: stripeA_42
+    2300112: stripeA_54
+    2300114: stripeB_29
+    2300116: stripeB_45
+    2300118: stripeC_30
+    2300120: stripeC_46
+    2300122: stripeC_56
+    2300124: transparent_4
+    2300126: windows_18
+    2300128: windows_28
+    2300130: windows_38
+    3300000: bottom_hull_1_22
+    3300002: bottom_hull_1_3
+    3300004: bottom_hull_1_3 1
+    3300006: bottom_hull_61
+    3300008: cabin_stripeA_0_26
+    3300010: cabin_stripeA_0_44
+    3300012: cabin_stripeA_0_55
+    3300014: deck_11_10
+    3300016: deck_13_8
+    3300018: deck_15_9
+    3300020: deck_17_34
+    3300022: deck_17_48
+    3300024: deck_19_35
+    3300026: deck_19_49
+    3300028: deck_2_2
+    3300030: deck_2_2 1
+    3300032: deck_33
+    3300034: deck_3_36
+    3300036: deck_3_50
+    3300038: deck_4_0
+    3300040: deck_4_0 1
+    3300042: deck_58
+    3300044: deck_6
+    3300046: deck_8_7
+    3300048: deck_9_1
+    3300050: deck_9_1 1
+    3300052: hull_panels_59
+    3300054: hullA_19
+    3300056: hullA_39
+    3300058: hullA_51
+    3300060: hullB_20
+    3300062: hullB_40
+    3300064: hullB_52
+    3300066: pattern_32
+    3300068: patternA_47
+    3300070: patternA_57
+    3300072: props_11
+    3300074: railings_5
+    3300076: ribbing_24
+    3300078: ribbing_43
+    3300080: rudder1_21
+    3300082: rudder1_41
+    3300084: rudder1_53
+    3300086: static_steps_steps_15
+    3300088: steps10_16
+    3300090: steps2_12
+    3300092: steps6_13
+    3300094: steps8_17
+    3300096: steps_14
+    3300098: steps_37
+    3300100: stripe_a_60
+    3300102: stripe_c3_31
+    3300104: stripeA_1_25
+    3300106: stripeA_23
+    3300108: stripeA_3_27
+    3300110: stripeA_42
+    3300112: stripeA_54
+    3300114: stripeB_29
+    3300116: stripeB_45
+    3300118: stripeC_30
+    3300120: stripeC_46
+    3300122: stripeC_56
+    3300124: transparent_4
+    3300126: windows_18
+    3300128: windows_28
+    3300130: windows_38
+    4300000: transparent_4
+    4300002: railings_5
+    4300004: deck_4_0
+    4300006: deck_9_1
+    4300008: deck_8_7
+    4300010: deck_13_8
+    4300012: deck_15_9
+    4300014: deck_11_10
+    4300016: deck_6
+    4300018: props_11
+    4300020: steps2_12
+    4300022: steps6_13
+    4300024: steps_14
+    4300026: static_steps_steps_15
+    4300028: steps10_16
+    4300030: steps8_17
+    4300032: windows_18
+    4300034: hullA_19
+    4300036: rudder1_21
+    4300038: bottom_hull_1_22
+    4300040: hullB_20
+    4300042: ribbing_24
+    4300044: stripeA_1_25
+    4300046: cabin_stripeA_0_26
+    4300048: stripeA_3_27
+    4300050: windows_28
+    4300052: stripeA_23
+    4300054: stripeB_29
+    4300056: stripe_c3_31
+    4300058: stripeC_30
+    4300060: pattern_32
+    4300062: deck_2_2
+    4300064: deck_17_34
+    4300066: deck_19_35
+    4300068: deck_3_36
+    4300070: deck_33
+    4300072: steps_37
+    4300074: windows_38
+    4300076: hullA_39
+    4300078: rudder1_41
+    4300080: bottom_hull_1_3
+    4300082: hullB_40
+    4300084: ribbing_43
+    4300086: cabin_stripeA_0_44
+    4300088: stripeA_42
+    4300090: stripeB_45
+    4300092: stripeC_46
+    4300094: patternA_47
+    4300096: deck_17_48
+    4300098: deck_19_49
+    4300100: deck_3_50
+    4300102: hullA_51
+    4300104: rudder1_53
+    4300106: hullB_52
+    4300108: cabin_stripeA_0_55
+    4300110: stripeA_54
+    4300112: stripeC_56
+    4300114: patternA_57
+    4300116: deck_58
+    4300118: hull_panels_59
+    4300120: stripe_a_60
+    4300122: bottom_hull_61
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

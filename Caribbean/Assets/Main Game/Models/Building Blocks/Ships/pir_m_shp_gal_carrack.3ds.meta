@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 6056f88fabfbe7c48a402b5bbe9b5b7f
+timeCreated: 1488516215
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: custom
+    100002: custom 1
+    100004: custom 2
+    100006: custom_15
+    100008: custom_7
+    100010: deck
+    100012: deck 1
+    100014: deck 2
+    100016: deck_13
+    100018: deck_2
+    100020: geometry
+    100022: grates
+    100024: grates_5
+    100026: hullA
+    100028: hullA 1
+    100030: hullA 2
+    100032: hullA_16
+    100034: hullA_22
+    100036: hullA_8
+    100038: hullB
+    100040: hullB 1
+    100042: hullB 2
+    100044: hullB_17
+    100046: hullB_23
+    100048: hullB_9
+    100050: hullC
+    100052: hullC 1
+    100054: hullC 2
+    100056: hullC_12
+    100058: hullC_20
+    100060: hullC_26
+    100062: lod_high
+    100064: lod_low
+    100066: lod_medium
+    100068: pasted__deck
+    100070: pasted__deck 1
+    100072: pasted__deck_14
+    100074: pasted__deck_21
+    100076: //RootNode
+    100078: railings
+    100080: railings_4
+    100082: static
+    100084: static 1
+    100086: static 2
+    100088: steps
+    100090: steps 1
+    100092: steps 2
+    100094: steps_1
+    100096: steps_1 1
+    100098: steps_3
+    100100: stripeA
+    100102: stripeA 1
+    100104: stripeA 2
+    100106: stripeA_10
+    100108: stripeA_18
+    100110: stripeA_24
+    100112: stripeC
+    100114: stripeC 1
+    100116: stripeC 2
+    100118: stripeC_11
+    100120: stripeC_19
+    100122: stripeC_25
+    100124: transparent
+    100126: transparent_6
+    100128: windows
+    100130: windows 1
+    100132: windows_0
+    100134: windows_0 1
+    400000: custom
+    400002: custom 1
+    400004: custom 2
+    400006: custom_15
+    400008: custom_7
+    400010: deck
+    400012: deck 1
+    400014: deck 2
+    400016: deck_13
+    400018: deck_2
+    400020: geometry
+    400022: grates
+    400024: grates_5
+    400026: hullA
+    400028: hullA 1
+    400030: hullA 2
+    400032: hullA_16
+    400034: hullA_22
+    400036: hullA_8
+    400038: hullB
+    400040: hullB 1
+    400042: hullB 2
+    400044: hullB_17
+    400046: hullB_23
+    400048: hullB_9
+    400050: hullC
+    400052: hullC 1
+    400054: hullC 2
+    400056: hullC_12
+    400058: hullC_20
+    400060: hullC_26
+    400062: lod_high
+    400064: lod_low
+    400066: lod_medium
+    400068: pasted__deck
+    400070: pasted__deck 1
+    400072: pasted__deck_14
+    400074: pasted__deck_21
+    400076: //RootNode
+    400078: railings
+    400080: railings_4
+    400082: static
+    400084: static 1
+    400086: static 2
+    400088: steps
+    400090: steps 1
+    400092: steps 2
+    400094: steps_1
+    400096: steps_1 1
+    400098: steps_3
+    400100: stripeA
+    400102: stripeA 1
+    400104: stripeA 2
+    400106: stripeA_10
+    400108: stripeA_18
+    400110: stripeA_24
+    400112: stripeC
+    400114: stripeC 1
+    400116: stripeC 2
+    400118: stripeC_11
+    400120: stripeC_19
+    400122: stripeC_25
+    400124: transparent
+    400126: transparent_6
+    400128: windows
+    400130: windows 1
+    400132: windows_0
+    400134: windows_0 1
+    2300000: custom_15
+    2300002: custom_7
+    2300004: deck_13
+    2300006: deck_2
+    2300008: grates_5
+    2300010: hullA_16
+    2300012: hullA_22
+    2300014: hullA_8
+    2300016: hullB_17
+    2300018: hullB_23
+    2300020: hullB_9
+    2300022: hullC_12
+    2300024: hullC_20
+    2300026: hullC_26
+    2300028: pasted__deck_14
+    2300030: pasted__deck_21
+    2300032: railings_4
+    2300034: steps_1
+    2300036: steps_1 1
+    2300038: steps_3
+    2300040: stripeA_10
+    2300042: stripeA_18
+    2300044: stripeA_24
+    2300046: stripeC_11
+    2300048: stripeC_19
+    2300050: stripeC_25
+    2300052: transparent_6
+    2300054: windows_0
+    2300056: windows_0 1
+    3300000: custom_15
+    3300002: custom_7
+    3300004: deck_13
+    3300006: deck_2
+    3300008: grates_5
+    3300010: hullA_16
+    3300012: hullA_22
+    3300014: hullA_8
+    3300016: hullB_17
+    3300018: hullB_23
+    3300020: hullB_9
+    3300022: hullC_12
+    3300024: hullC_20
+    3300026: hullC_26
+    3300028: pasted__deck_14
+    3300030: pasted__deck_21
+    3300032: railings_4
+    3300034: steps_1
+    3300036: steps_1 1
+    3300038: steps_3
+    3300040: stripeA_10
+    3300042: stripeA_18
+    3300044: stripeA_24
+    3300046: stripeC_11
+    3300048: stripeC_19
+    3300050: stripeC_25
+    3300052: transparent_6
+    3300054: windows_0
+    3300056: windows_0 1
+    4300000: deck_2
+    4300002: steps_3
+    4300004: railings_4
+    4300006: grates_5
+    4300008: windows_0
+    4300010: transparent_6
+    4300012: hullA_8
+    4300014: hullB_9
+    4300016: stripeA_10
+    4300018: stripeC_11
+    4300020: hullC_12
+    4300022: custom_7
+    4300024: pasted__deck_14
+    4300026: deck_13
+    4300028: steps_1
+    4300030: hullA_16
+    4300032: hullB_17
+    4300034: stripeA_18
+    4300036: stripeC_19
+    4300038: hullC_20
+    4300040: custom_15
+    4300042: pasted__deck_21
+    4300044: hullA_22
+    4300046: hullB_23
+    4300048: stripeA_24
+    4300050: stripeC_25
+    4300052: hullC_26
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
