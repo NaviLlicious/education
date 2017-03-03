@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: efe59288fc67d7a428442e5bbd21bb91
+timeCreated: 1488496224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beams
+    100002: bow
+    100004: Chritmas2008
+    100006: collision_building
+    100008: decoBow_01
+    100010: decoBow_02
+    100012: decoBow_03
+    100014: decoBow_04
+    100016: dormer
+    100018: dormer_2
+    100020: //RootNode
+    100022: leaves_bottom
+    100024: leaves_top
+    100026: lod_high
+    400000: beams
+    400002: bow
+    400004: Chritmas2008
+    400006: collision_building
+    400008: decoBow_01
+    400010: decoBow_02
+    400012: decoBow_03
+    400014: decoBow_04
+    400016: dormer
+    400018: dormer_2
+    400020: //RootNode
+    400022: leaves_bottom
+    400024: leaves_top
+    400026: lod_high
+    2300000: beams
+    2300002: bow
+    2300004: Chritmas2008
+    2300006: collision_building
+    2300008: decoBow_01
+    2300010: decoBow_02
+    2300012: decoBow_03
+    2300014: decoBow_04
+    2300016: dormer
+    2300018: dormer_2
+    2300020: leaves_bottom
+    2300022: leaves_top
+    2300024: lod_high
+    3300000: beams
+    3300002: bow
+    3300004: Chritmas2008
+    3300006: collision_building
+    3300008: decoBow_01
+    3300010: decoBow_02
+    3300012: decoBow_03
+    3300014: decoBow_04
+    3300016: dormer
+    3300018: dormer_2
+    3300020: leaves_bottom
+    3300022: leaves_top
+    3300024: lod_high
+    4300000: beams
+    4300002: bow
+    4300004: Chritmas2008
+    4300006: collision_building
+    4300008: decoBow_01
+    4300010: decoBow_02
+    4300012: decoBow_03
+    4300014: decoBow_04
+    4300016: dormer
+    4300018: dormer_2
+    4300020: leaves_bottom
+    4300022: leaves_top
+    4300024: lod_high
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

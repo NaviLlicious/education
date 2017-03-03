@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 71a1b515d33269c42bcfa454f8deba6b
+timeCreated: 1488490856
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base02
+    100002: beams
+    100004: beams_shadows
+    100006: building_exterior
+    100008: collision_stps_floor
+    100010: door_left
+    100012: geometry
+    100014: group1
+    100016: group2
+    100018: group3
+    100020: group4
+    100022: group5
+    100024: group6
+    100026: group7
+    100028: group8
+    100030: //RootNode
+    100032: lod_high
+    100034: window_frames
+    400000: base02
+    400002: beams
+    400004: beams_shadows
+    400006: building_exterior
+    400008: collision_stps_floor
+    400010: door_left
+    400012: geometry
+    400014: group1
+    400016: group2
+    400018: group3
+    400020: group4
+    400022: group5
+    400024: group6
+    400026: group7
+    400028: group8
+    400030: //RootNode
+    400032: lod_high
+    400034: window_frames
+    2300000: base02
+    2300002: beams
+    2300004: beams_shadows
+    2300006: building_exterior
+    2300008: collision_stps_floor
+    2300010: door_left
+    2300012: geometry
+    2300014: group1
+    2300016: group2
+    2300018: group3
+    2300020: group4
+    2300022: group5
+    2300024: group6
+    2300026: group7
+    2300028: group8
+    2300030: lod_high
+    2300032: window_frames
+    3300000: base02
+    3300002: beams
+    3300004: beams_shadows
+    3300006: building_exterior
+    3300008: collision_stps_floor
+    3300010: door_left
+    3300012: geometry
+    3300014: group1
+    3300016: group2
+    3300018: group3
+    3300020: group4
+    3300022: group5
+    3300024: group6
+    3300026: group7
+    3300028: group8
+    3300030: lod_high
+    3300032: window_frames
+    4300000: base02
+    4300002: beams
+    4300004: beams_shadows
+    4300006: building_exterior
+    4300008: collision_stps_floor
+    4300010: door_left
+    4300012: geometry
+    4300014: group1
+    4300016: group2
+    4300018: group3
+    4300020: group4
+    4300022: group5
+    4300024: group6
+    4300026: group7
+    4300028: group8
+    4300030: lod_high
+    4300032: window_frames
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

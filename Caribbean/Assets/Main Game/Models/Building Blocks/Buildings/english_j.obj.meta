@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: b1aa0a2b674430e48b198f98cd3c816b
+timeCreated: 1488496171
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: building_shell5
+    100002: Christmas08
+    100004: collision_floor
+    100006: collision_wall
+    100008: decoBow_01
+    100010: decoBow_02
+    100012: decoBow_03
+    100014: decoBow_04
+    100016: door_hole
+    100018: door_left
+    100020: dormer_balcony
+    100022: dormer_roof
+    100024: //RootNode
+    100026: lod_high
+    100028: railing
+    100030: railings
+    100032: railings_normals
+    100034: sstep
+    400000: building_shell5
+    400002: Christmas08
+    400004: collision_floor
+    400006: collision_wall
+    400008: decoBow_01
+    400010: decoBow_02
+    400012: decoBow_03
+    400014: decoBow_04
+    400016: door_hole
+    400018: door_left
+    400020: dormer_balcony
+    400022: dormer_roof
+    400024: //RootNode
+    400026: lod_high
+    400028: railing
+    400030: railings
+    400032: railings_normals
+    400034: sstep
+    2300000: building_shell5
+    2300002: Christmas08
+    2300004: collision_floor
+    2300006: collision_wall
+    2300008: decoBow_01
+    2300010: decoBow_02
+    2300012: decoBow_03
+    2300014: decoBow_04
+    2300016: door_hole
+    2300018: door_left
+    2300020: dormer_balcony
+    2300022: dormer_roof
+    2300024: lod_high
+    2300026: railing
+    2300028: railings
+    2300030: railings_normals
+    2300032: sstep
+    3300000: building_shell5
+    3300002: Christmas08
+    3300004: collision_floor
+    3300006: collision_wall
+    3300008: decoBow_01
+    3300010: decoBow_02
+    3300012: decoBow_03
+    3300014: decoBow_04
+    3300016: door_hole
+    3300018: door_left
+    3300020: dormer_balcony
+    3300022: dormer_roof
+    3300024: lod_high
+    3300026: railing
+    3300028: railings
+    3300030: railings_normals
+    3300032: sstep
+    4300000: building_shell5
+    4300002: Christmas08
+    4300004: collision_floor
+    4300006: collision_wall
+    4300008: decoBow_01
+    4300010: decoBow_02
+    4300012: decoBow_03
+    4300014: decoBow_04
+    4300016: door_hole
+    4300018: door_left
+    4300020: dormer_balcony
+    4300022: dormer_roof
+    4300024: lod_high
+    4300026: railing
+    4300028: railings
+    4300030: railings_normals
+    4300032: sstep
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

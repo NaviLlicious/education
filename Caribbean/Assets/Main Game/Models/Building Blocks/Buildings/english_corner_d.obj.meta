@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: bfa52d790f50a1b42ac4e27e30ee43f4
+timeCreated: 1488496056
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beams
+    100002: bow
+    100004: building_shell3
+    100006: Christmas2008
+    100008: collision_building
+    100010: collision_pilar_01
+    100012: collision_pilar_02
+    100014: collision_pilar_03
+    100016: collision_step
+    100018: collsion_building_top
+    100020: decoBow
+    100022: decoBow1
+    100024: door_hole
+    100026: door_left
+    100028: doorway
+    100030: //RootNode
+    100032: leaves_bottom
+    100034: leaves_top
+    100036: lod_high
+    100038: step
+    100040: windows
+    400000: beams
+    400002: bow
+    400004: building_shell3
+    400006: Christmas2008
+    400008: collision_building
+    400010: collision_pilar_01
+    400012: collision_pilar_02
+    400014: collision_pilar_03
+    400016: collision_step
+    400018: collsion_building_top
+    400020: decoBow
+    400022: decoBow1
+    400024: door_hole
+    400026: door_left
+    400028: doorway
+    400030: //RootNode
+    400032: leaves_bottom
+    400034: leaves_top
+    400036: lod_high
+    400038: step
+    400040: windows
+    2300000: beams
+    2300002: bow
+    2300004: building_shell3
+    2300006: Christmas2008
+    2300008: collision_building
+    2300010: collision_pilar_01
+    2300012: collision_pilar_02
+    2300014: collision_pilar_03
+    2300016: collision_step
+    2300018: collsion_building_top
+    2300020: decoBow
+    2300022: decoBow1
+    2300024: door_hole
+    2300026: door_left
+    2300028: doorway
+    2300030: leaves_bottom
+    2300032: leaves_top
+    2300034: lod_high
+    2300036: step
+    2300038: windows
+    3300000: beams
+    3300002: bow
+    3300004: building_shell3
+    3300006: Christmas2008
+    3300008: collision_building
+    3300010: collision_pilar_01
+    3300012: collision_pilar_02
+    3300014: collision_pilar_03
+    3300016: collision_step
+    3300018: collsion_building_top
+    3300020: decoBow
+    3300022: decoBow1
+    3300024: door_hole
+    3300026: door_left
+    3300028: doorway
+    3300030: leaves_bottom
+    3300032: leaves_top
+    3300034: lod_high
+    3300036: step
+    3300038: windows
+    4300000: beams
+    4300002: bow
+    4300004: building_shell3
+    4300006: Christmas2008
+    4300008: collision_building
+    4300010: collision_pilar_01
+    4300012: collision_pilar_02
+    4300014: collision_pilar_03
+    4300016: collision_step
+    4300018: collsion_building_top
+    4300020: decoBow
+    4300022: decoBow1
+    4300024: door_hole
+    4300026: door_left
+    4300028: doorway
+    4300030: leaves_bottom
+    4300032: leaves_top
+    4300034: lod_high
+    4300036: step
+    4300038: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

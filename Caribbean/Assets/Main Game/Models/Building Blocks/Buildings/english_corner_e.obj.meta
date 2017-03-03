@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 0dc1af57bb3b16944bf6d4836171c4e2
+timeCreated: 1488496054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beams
+    100002: beams_deco_back
+    100004: beams_deco_front
+    100006: bow
+    100008: collision_building
+    100010: collision_door
+    100012: collision_floor
+    100014: collision_pillar_01
+    100016: collision_pillar_02
+    100018: door_hole
+    100020: door_right
+    100022: //RootNode
+    100024: leaves_bottom
+    100026: leaves_top
+    100028: lod_high
+    100030: step
+    100032: step_front
+    100034: windows
+    400000: beams
+    400002: beams_deco_back
+    400004: beams_deco_front
+    400006: bow
+    400008: collision_building
+    400010: collision_door
+    400012: collision_floor
+    400014: collision_pillar_01
+    400016: collision_pillar_02
+    400018: door_hole
+    400020: door_right
+    400022: //RootNode
+    400024: leaves_bottom
+    400026: leaves_top
+    400028: lod_high
+    400030: step
+    400032: step_front
+    400034: windows
+    2300000: beams
+    2300002: beams_deco_back
+    2300004: beams_deco_front
+    2300006: bow
+    2300008: collision_building
+    2300010: collision_door
+    2300012: collision_floor
+    2300014: collision_pillar_01
+    2300016: collision_pillar_02
+    2300018: door_hole
+    2300020: door_right
+    2300022: leaves_bottom
+    2300024: leaves_top
+    2300026: lod_high
+    2300028: step
+    2300030: step_front
+    2300032: windows
+    3300000: beams
+    3300002: beams_deco_back
+    3300004: beams_deco_front
+    3300006: bow
+    3300008: collision_building
+    3300010: collision_door
+    3300012: collision_floor
+    3300014: collision_pillar_01
+    3300016: collision_pillar_02
+    3300018: door_hole
+    3300020: door_right
+    3300022: leaves_bottom
+    3300024: leaves_top
+    3300026: lod_high
+    3300028: step
+    3300030: step_front
+    3300032: windows
+    4300000: beams
+    4300002: beams_deco_back
+    4300004: beams_deco_front
+    4300006: bow
+    4300008: collision_building
+    4300010: collision_door
+    4300012: collision_floor
+    4300014: collision_pillar_01
+    4300016: collision_pillar_02
+    4300018: door_hole
+    4300020: door_right
+    4300022: leaves_bottom
+    4300024: leaves_top
+    4300026: lod_high
+    4300028: step
+    4300030: step_front
+    4300032: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
