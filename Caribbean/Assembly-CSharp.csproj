@@ -49,10 +49,8 @@
      <Compile Include="Assets\Main Game\Scripts\CharacterMotor.cs" />
      <Compile Include="Assets\Main Game\Scripts\ExportTerrain.cs" />
      <Compile Include="Assets\Main Game\Scripts\MMOCharController.cs" />
+     <Compile Include="Assets\Main Game\Scripts\Movement.cs" />
      <Compile Include="Assets\Main Game\Scripts\Object2Terrain.cs" />
-     <Compile Include="Assets\Main Game\Scripts\boardShip.cs" />
-     <Compile Include="Assets\Main Game\Scripts\captain.cs" />
-     <Compile Include="Assets\Main Game\Scripts\ship.cs" />
      <Compile Include="Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
      <Compile Include="Assets\ReliefPack\ExampleScenes\ReliefTerrain\_appControlerShaderOnTriplanarMesh.cs" />
      <Compile Include="Assets\ReliefPack\ExampleScenes\ReliefTerrain\_appControlerTerrain.cs" />
