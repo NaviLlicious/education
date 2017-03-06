@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Main Game/Scenes/portRoyal.unity
+- path: Assets/Main Game/Scenes/Buildings.unity
   isLoaded: 1
   isActive: 1
