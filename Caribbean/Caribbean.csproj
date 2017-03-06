@@ -73,6 +73,9 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Assembly-UnityScript-firstpass">
+      <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Caribbean.Plugins.csproj">
@@ -90,6 +93,9 @@
     <Compile Include="Assets\Main Game\Scripts\Player\PlayerMotor.cs" />
     <Compile Include="Assets\Main Game\Scripts\System\Helper.cs" />
     <Compile Include="Assets\Mixamo\Magic Pack\Demo\CameraScroll.cs" />
+    <Compile Include="Assets\NoiseBrush\NoiseBrush.cs" />
+    <Compile Include="Assets\NoiseBrush\Scripts\Matrix.cs" />
+    <Compile Include="Assets\NoiseBrush\Scripts\Noise.cs" />
     <Compile Include="Assets\Scripts\MMOCharController.cs" />
     <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\UniStorm Examples\Disable Effect Under Water\DisableEffectUnderWater.cs" />
     <Compile Include="Assets\UniStorm (Desktop)\Scripts (Desktop)\UniStorm Examples\Dynamic Snow\DynamicSnow_C.cs" />
@@ -192,6 +198,18 @@
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
     <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\ats pathShader Package\Shader\ats Road Path bumped diffuse alphatest.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\ats vertexLitShader Package\Shader\atsv2 vertexlit.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\atsV2 UnityTerrainBump Package\TerrainReplacementAtsV2.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\atsV2 billboardShader package\Tree.cginc" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\atsV2 billboardShader package\TreeCreatorBarkRendertex.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\atsV2 billboardShader package\TreeCreatorLeavesRendertex.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\atsV2 grassShader Package\atsV2WavingGrass.shader" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\readme_billboardShader.txt" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\readme_grassShader.txt" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\readme_terrainBumpShader.txt" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\readme_treeBarkShader.txt" />
+    <None Include="Assets\Standard Assets\Environment\0000 ats V2 package\readme_vertexLitShader.txt" />
     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
