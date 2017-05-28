@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 83867ac4436e65d439cd4922cfb9214a
+timeCreated: 1495946734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _
+    100002: _ 1
+    100004: collision_wall
+    100006: collision_wall_3
+    100008: collision_wall_3_25
+    100010: collision_zone
+    100012: collision_zone_floor_2
+    100014: collision_zone_floor_2_24
+    100016: collisions
+    100018: lod_high
+    100020: lod_high_0
+    100022: pir_m_prp_swm_gate
+    100024: //RootNode
+    100026: postcollsion7
+    100028: postcollsion7_26
+    100030: rampposts1
+    100032: rampposts1_18
+    100034: TablePlank167
+    100036: TablePlank167_1
+    100038: TablePlank168
+    100040: TablePlank168_2
+    100042: TablePlank169
+    100044: TablePlank169_3
+    100046: TablePlank170
+    100048: TablePlank170_4
+    100050: TablePlank171
+    100052: TablePlank171_5
+    100054: TablePlank172
+    100056: TablePlank172_6
+    100058: TablePlank173
+    100060: TablePlank173_7
+    100062: TablePlank174
+    100064: TablePlank174_8
+    100066: TablePlank176
+    100068: TablePlank176_9
+    100070: TablePlank177
+    100072: TablePlank177_10
+    100074: TablePlank180
+    100076: TablePlank180_11
+    100078: TablePlank181
+    100080: TablePlank181_12
+    100082: TablePlank182
+    100084: TablePlank182_13
+    100086: TablePlank186
+    100088: TablePlank186_17
+    100090: TablePlank187
+    100092: TablePlank187_16
+    100094: TablePlank188
+    100096: TablePlank188_14
+    100098: TablePlank189
+    100100: TablePlank189_15
+    100102: Torch11
+    100104: Torch11_20
+    100106: Torch36
+    100108: Torch36_21
+    100110: Torch37
+    100112: Torch37_22
+    100114: Torch38
+    100116: Torch38_23
+    100118: torch_effect_026
+    100120: torch_effect_026 1
+    100122: torch_effect_026 2
+    100124: torch_effect_026 3
+    100126: torchlow_Torch11
+    100128: torchlow_Torch11_19
+    100130: torchlow_torch_effect_026
+    400000: _
+    400002: _ 1
+    400004: collision_wall
+    400006: collision_wall_3
+    400008: collision_wall_3_25
+    400010: collision_zone
+    400012: collision_zone_floor_2
+    400014: collision_zone_floor_2_24
+    400016: collisions
+    400018: lod_high
+    400020: lod_high_0
+    400022: pir_m_prp_swm_gate
+    400024: //RootNode
+    400026: postcollsion7
+    400028: postcollsion7_26
+    400030: rampposts1
+    400032: rampposts1_18
+    400034: TablePlank167
+    400036: TablePlank167_1
+    400038: TablePlank168
+    400040: TablePlank168_2
+    400042: TablePlank169
+    400044: TablePlank169_3
+    400046: TablePlank170
+    400048: TablePlank170_4
+    400050: TablePlank171
+    400052: TablePlank171_5
+    400054: TablePlank172
+    400056: TablePlank172_6
+    400058: TablePlank173
+    400060: TablePlank173_7
+    400062: TablePlank174
+    400064: TablePlank174_8
+    400066: TablePlank176
+    400068: TablePlank176_9
+    400070: TablePlank177
+    400072: TablePlank177_10
+    400074: TablePlank180
+    400076: TablePlank180_11
+    400078: TablePlank181
+    400080: TablePlank181_12
+    400082: TablePlank182
+    400084: TablePlank182_13
+    400086: TablePlank186
+    400088: TablePlank186_17
+    400090: TablePlank187
+    400092: TablePlank187_16
+    400094: TablePlank188
+    400096: TablePlank188_14
+    400098: TablePlank189
+    400100: TablePlank189_15
+    400102: Torch11
+    400104: Torch11_20
+    400106: Torch36
+    400108: Torch36_21
+    400110: Torch37
+    400112: Torch37_22
+    400114: Torch38
+    400116: Torch38_23
+    400118: torch_effect_026
+    400120: torch_effect_026 1
+    400122: torch_effect_026 2
+    400124: torch_effect_026 3
+    400126: torchlow_Torch11
+    400128: torchlow_Torch11_19
+    400130: torchlow_torch_effect_026
+    2300000: collision_wall_3_25
+    2300002: collision_zone_floor_2_24
+    2300004: lod_high_0
+    2300006: postcollsion7_26
+    2300008: rampposts1_18
+    2300010: TablePlank167_1
+    2300012: TablePlank168_2
+    2300014: TablePlank169_3
+    2300016: TablePlank170_4
+    2300018: TablePlank171_5
+    2300020: TablePlank172_6
+    2300022: TablePlank173_7
+    2300024: TablePlank174_8
+    2300026: TablePlank176_9
+    2300028: TablePlank177_10
+    2300030: TablePlank180_11
+    2300032: TablePlank181_12
+    2300034: TablePlank182_13
+    2300036: TablePlank186_17
+    2300038: TablePlank187_16
+    2300040: TablePlank188_14
+    2300042: TablePlank189_15
+    2300044: Torch11_20
+    2300046: Torch36_21
+    2300048: Torch37_22
+    2300050: Torch38_23
+    2300052: torchlow_Torch11_19
+    3300000: collision_wall_3_25
+    3300002: collision_zone_floor_2_24
+    3300004: lod_high_0
+    3300006: postcollsion7_26
+    3300008: rampposts1_18
+    3300010: TablePlank167_1
+    3300012: TablePlank168_2
+    3300014: TablePlank169_3
+    3300016: TablePlank170_4
+    3300018: TablePlank171_5
+    3300020: TablePlank172_6
+    3300022: TablePlank173_7
+    3300024: TablePlank174_8
+    3300026: TablePlank176_9
+    3300028: TablePlank177_10
+    3300030: TablePlank180_11
+    3300032: TablePlank181_12
+    3300034: TablePlank182_13
+    3300036: TablePlank186_17
+    3300038: TablePlank187_16
+    3300040: TablePlank188_14
+    3300042: TablePlank189_15
+    3300044: Torch11_20
+    3300046: Torch36_21
+    3300048: Torch37_22
+    3300050: Torch38_23
+    3300052: torchlow_Torch11_19
+    4300000: TablePlank167_1
+    4300002: TablePlank168_2
+    4300004: TablePlank169_3
+    4300006: TablePlank170_4
+    4300008: TablePlank171_5
+    4300010: TablePlank172_6
+    4300012: TablePlank173_7
+    4300014: TablePlank174_8
+    4300016: TablePlank176_9
+    4300018: TablePlank177_10
+    4300020: TablePlank180_11
+    4300022: TablePlank181_12
+    4300024: TablePlank182_13
+    4300026: TablePlank188_14
+    4300028: TablePlank189_15
+    4300030: TablePlank187_16
+    4300032: TablePlank186_17
+    4300034: rampposts1_18
+    4300036: torchlow_Torch11_19
+    4300038: Torch11_20
+    4300040: Torch36_21
+    4300042: Torch37_22
+    4300044: Torch38_23
+    4300046: lod_high_0
+    4300048: collision_zone_floor_2_24
+    4300050: collision_wall_3_25
+    4300052: postcollsion7_26
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
